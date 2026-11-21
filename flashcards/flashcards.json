@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "basic_life_support_and_aed",
+  "front": "倒れている人を見つけたとき、最初に行う行動は何か。",
+  "back": "周囲の安全を確認したうえで、肩を叩きながら呼びかけて反応を確認する。安全が確保されていないと救助者自身が二次被害を受けるため。"
+ },
+ {
+  "id": 2,
+  "domain": "basic_life_support_and_aed",
+  "front": "反応がないと判断した直後に行うべき応援要請の内容は。",
+  "back": "大声で周囲に助けを求め、119番通報とAED搬送を依頼する。心停止では早い通報と早い電気ショックが救命に直結するため。"
+ },
+ {
+  "id": 3,
+  "domain": "basic_life_support_and_aed",
+  "front": "心停止の判断で呼吸と脈拍を確認する時間の上限は。",
+  "back": "10秒以内。確認に時間をかけると胸骨圧迫の開始が遅れる。判断に迷うときや確信が持てないときは心停止として扱う。"
+ },
+ {
+  "id": 4,
+  "domain": "basic_life_support_and_aed",
+  "front": "死戦期呼吸とは何で、どう扱うか。",
+  "back": "しゃくりあげるような、あえぐ不規則な呼吸。心停止直後によく見られ、普通の呼吸ではないので心停止と判断して胸骨圧迫を開始する。"
+ },
+ {
+  "id": 5,
+  "domain": "basic_life_support_and_aed",
+  "front": "呼吸の確認で「普通の呼吸なし」と判断する所見は。",
+  "back": "胸と腹部の動きがない、または動きがあっても死戦期呼吸のような異常な呼吸。この場合は呼吸なしとして心停止を疑う。"
+ },
+ {
+  "id": 6,
+  "domain": "basic_life_support_and_aed",
+  "front": "医療従事者が脈拍確認に用いる主な部位は。",
+  "back": "頸動脈。呼吸の確認と同時に10秒以内で行う。確実に触れない場合は脈なしとして、直ちに胸骨圧迫を始める。"
+ },
+ {
+  "id": 7,
+  "domain": "basic_life_support_and_aed",
+  "front": "成人の胸骨圧迫の位置はどこか。",
+  "back": "胸の真ん中、胸骨の下半分。手のひらの付け根を当て、もう一方の手を重ねる。位置がずれると効果が下がり、肋骨損傷の原因にもなる。"
+ },
+ {
+  "id": 8,
+  "domain": "basic_life_support_and_aed",
+  "front": "成人の胸骨圧迫の深さの目安は。",
+  "back": "約5cm沈むように圧迫し、6cmを超えないようにする。浅いと十分な血流が得られず、深すぎると胸郭や内臓の損傷が増える。"
+ },
+ {
+  "id": 9,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫のテンポ（速さ）の目安は。",
+  "back": "1分間に100回から120回。遅いと心拍出量が不足し、速すぎると深さや戻りが不十分になりやすい。"
+ },
+ {
+  "id": 10,
+  "domain": "basic_life_support_and_aed",
+  "front": "圧迫のたびに必ず行うべき「胸壁の戻し」とは何か。",
+  "back": "圧迫と圧迫の間に胸壁を完全に元の位置まで戻すこと。もたれかかると心臓への血液の戻りが妨げられ、冠灌流圧が下がる。"
+ },
+ {
+  "id": 11,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫の中断は最大で何秒以内に抑えるべきか。",
+  "back": "10秒以内。中断が長いほど冠灌流圧が下がり、再開後に圧が回復するまで時間がかかる。心拍再開の可能性も低下する。"
+ },
+ {
+  "id": 12,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫を行う救助者の交代はどのくらいの間隔で行うか。",
+  "back": "およそ2分ごと、またはリズム解析のタイミングで交代する。疲労で質が落ちる前に、中断を最小限にして素早く入れ替わる。"
+ },
+ {
+  "id": 13,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫を交代するとき、なぜ疲労を待たずに交代するのか。",
+  "back": "疲労を自覚する前から圧迫の深さや速さが低下するため。2分ごとの定期交代で質を保ち、交代の中断は数秒以内にとどめる。"
+ },
+ {
+  "id": 14,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫の割合（CCF）とは何で、目標はどうか。",
+  "back": "心停止の対応時間のうち胸骨圧迫をしている時間の割合。できるだけ高く保つことが重要で、目標は60%以上とされる。"
+ },
+ {
+  "id": 15,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫の中断が必要になる場面を3つ挙げよ。",
+  "back": "リズム解析、電気ショックの実施、高度な気道確保の挿入など。いずれも必要最小限の時間にとどめ、終わったら直ちに再開する。"
+ },
+ {
+  "id": 16,
+  "domain": "basic_life_support_and_aed",
+  "front": "AEDが到着したときの最初の操作は。",
+  "back": "電源を入れる。電源を入れると音声ガイダンスが始まるので、それに従う。胸骨圧迫は準備中も続け、中断を最小限にする。"
+ },
+ {
+  "id": 17,
+  "domain": "basic_life_support_and_aed",
+  "front": "成人のAEDパッドの標準的な貼付位置は。",
+  "back": "右前胸部（鎖骨の下、胸骨の右）と左側胸部（脇の下の数cm下）。心臓を挟んで電流が通るようにするため。"
+ },
+ {
+  "id": 18,
+  "domain": "basic_life_support_and_aed",
+  "front": "AEDがリズム解析をしている間、救助者は何をするか。",
+  "back": "傷病者から離れて触れない。体に触れていると解析が乱れて誤判定につながるため、周囲にも離れるよう声をかけて確認する。"
+ },
+ {
+  "id": 19,
+  "domain": "basic_life_support_and_aed",
+  "front": "電気ショックを行う前に必ず確認することは。",
+  "back": "誰も傷病者に触れていないこと。酸素の流れや接触を含め安全を目で見て確認し、「離れて」と声をかけてから通電ボタンを押す。"
+ },
+ {
+  "id": 20,
+  "domain": "basic_life_support_and_aed",
+  "front": "電気ショックの直後に行うことは何か。",
+  "back": "脈拍やリズムの確認をせず、直ちに胸骨圧迫から再開する。ショック直後は脈が触れにくく、中断が長くなると効果が下がるため。"
+ },
+ {
+  "id": 21,
+  "domain": "basic_life_support_and_aed",
+  "front": "AEDが「電気ショックは不要です」と音声を出した場合の対応は。",
+  "back": "ただちに胸骨圧迫を再開し、2分後の次の解析まで続ける。ショック不要は心停止の否定ではなく、除細動の適応でないという意味。"
+ },
+ {
+  "id": 22,
+  "domain": "basic_life_support_and_aed",
+  "front": "傷病者の胸が水で濡れている場合、AEDではどうするか。",
+  "back": "水分を拭き取ってからパッドを貼る。水が皮膚上にあると電流が体表を流れ、効果が下がったりやけどの原因になったりする。"
+ },
+ {
+  "id": 23,
+  "domain": "basic_life_support_and_aed",
+  "front": "貼り薬や湿布が貼付位置にある場合の対応は。",
+  "back": "剥がして薬剤を拭き取り、その位置を避けるかきれいにしてからパッドを貼る。薬剤の上に貼ると接触不良や熱傷の恐れがある。"
+ },
+ {
+  "id": 24,
+  "domain": "basic_life_support_and_aed",
+  "front": "体内にペースメーカーなどがある人のパッドの貼り方は。",
+  "back": "皮膚の下の膨らみがある部位を避けて貼る。機器の上に直接貼ると電流が十分に届かず、機器の損傷にもつながる。"
+ },
+ {
+  "id": 25,
+  "domain": "basic_life_support_and_aed",
+  "front": "未就学児にAEDを使うときのパッドの選択は。",
+  "back": "小児用パッドや小児用モードがあればそれを使う。なければ成人用パッドを用いてよく、AEDを使わず待つことは避ける。"
+ },
+ {
+  "id": 26,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫の質を客観的に把握する機器の例は何か。",
+  "back": "フィードバック機器（圧迫の深さ、速さ、戻りを表示）。主観では質を過大評価しやすいため、数値と音声で補助して質を維持する。"
+ },
+ {
+  "id": 27,
+  "domain": "basic_life_support_and_aed",
+  "front": "呼気CO2（波形表示付き）を心停止中に使う目的の一つは。",
+  "back": "気管チューブの位置確認と、心拍再開（ROSC）の早期発見。圧迫中にCO2値が急に上がれば、ROSCのサインの可能性がある。"
+ },
+ {
+  "id": 28,
+  "domain": "basic_life_support_and_aed",
+  "front": "動脈圧モニタリングが胸骨圧迫の質の評価に役立つ理由は。",
+  "back": "圧迫中の拡張期圧などから、血流が十分に生み出せているかを直接見られるため。圧迫の深さや速さの調整に利用できる。"
+ },
+ {
+  "id": 29,
+  "domain": "basic_life_support_and_aed",
+  "front": "呼気CO2値が圧迫中に極端に低いとき、まず見直す点は。",
+  "back": "胸骨圧迫の深さ、速さ、戻り、中断の有無などの質。圧迫が不十分だと肺への血流が減りCO2が低下するため、圧迫者や方法を改善する。"
+ },
+ {
+  "id": 30,
+  "domain": "basic_life_support_and_aed",
+  "front": "圧迫者の疲労を防ぐために心がけるべき姿勢は。",
+  "back": "腕を伸ばし肘を曲げず、体重を真上から垂直にかける。踏み台や高さの調整で姿勢を整えると、少ない疲労で深い圧迫を続けられる。"
+ },
+ {
+  "id": 31,
+  "domain": "basic_life_support_and_aed",
+  "front": "ICLSのBLS評価で重視される「質の高い胸骨圧迫」の要素は。",
+  "back": "適切な位置、約5cmの深さ、100回から120回/分、完全な胸壁の戻し、中断の最小化の5点。これらがそろって質が高いと評価される。"
+ },
+ {
+  "id": 32,
+  "domain": "basic_life_support_and_aed",
+  "front": "BLS実技でよく見られる誤りを一つ挙げ、その影響を述べよ。",
+  "back": "圧迫が浅い、または中断が長いこと。浅いと有効な血流が得られず、中断が長いと冠灌流圧が下がって心拍再開の可能性が低下する。"
+ },
+ {
+  "id": 33,
+  "domain": "basic_life_support_and_aed",
+  "front": "デブリーフィングでBLSの振り返りに用いる基本の観点は。",
+  "back": "事実を述べ、良かった点と改善点を具体的に確認し、次の行動に結びつけること。個人を責めず、チームで学ぶ姿勢で行う。"
+ },
+ {
+  "id": 34,
+  "domain": "basic_life_support_and_aed",
+  "front": "ICLSでBLS熟練者が優先して行うべき「最初の10分」の基本は。",
+  "back": "質の高い胸骨圧迫の開始と、AEDまたは除細動器による早期のショック。この二つを中断なく速やかに行うことが、救命の基盤になる。"
+ },
+ {
+  "id": 35,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫では、胸のどの位置を圧迫するのが正しいか。",
+  "back": "胸骨の下半分（胸の真ん中）に手のひらの付け根を置いて押す。心臓を胸骨と脊柱で挟むように圧迫でき、効率が高い。"
+ },
+ {
+  "id": 36,
+  "domain": "basic_life_support_and_aed",
+  "front": "成人に対する胸骨圧迫の深さの目安はどれくらいか。",
+  "back": "5から6cm。浅いと血流が不足し、深すぎると肋骨骨折や内臓損傷の危険が増えるため、深さを守って押す。"
+ },
+ {
+  "id": 37,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫の適切なテンポ（速さ）はどれくらいか。",
+  "back": "100から120回/分。遅いと血流が不十分になり、速すぎると圧迫が浅くなり胸壁も十分に戻らなくなる。"
+ },
+ {
+  "id": 38,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫のたびに胸壁を完全に戻す必要があるのはなぜか。",
+  "back": "胸壁が戻ると胸腔内圧が下がり、心臓へ血液が戻る。その結果、次の圧迫での拍出量が増えるため。"
+ },
+ {
+  "id": 39,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫の合間に、胸にもたれかかってはいけない理由は。",
+  "back": "胸壁にもたれると胸が元に戻らず、心臓へ戻る血液が減る。圧迫と圧迫の間は胸壁に体重をかけない。"
+ },
+ {
+  "id": 40,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫を行うとき、患者の下に確保すべきものは何か。",
+  "back": "硬く平らな面（床やバックボード）。柔らかいベッドでは力が逃げ、十分な深さの圧迫ができなくなる。"
+ },
+ {
+  "id": 41,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫の中断を最小限にすべき理由は何か。",
+  "back": "中断中は冠灌流圧が速やかに低下し、再開しても回復に時間がかかる。ショックや換気でも中断は短くする。"
+ },
+ {
+  "id": 42,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫と人工呼吸を組み合わせるときの比はいくつか。",
+  "back": "30対2。圧迫30回に続けて人工呼吸2回を行い、換気のために圧迫を長く止めないようにする。"
+ },
+ {
+  "id": 43,
+  "domain": "basic_life_support_and_aed",
+  "front": "バッグバルブマスク換気の1回換気量の目安と送気の仕方は。",
+  "back": "胸が上がるのが見える程度の量を、約1秒かけて送る。過大量や速い送気は胃膨満や胸腔内圧上昇を招く。"
+ },
+ {
+  "id": 44,
+  "domain": "basic_life_support_and_aed",
+  "front": "高度な気道確保後の胸骨圧迫と換気はどのように行うか。",
+  "back": "胸骨圧迫は中断せず連続して行い、換気は6秒に1回程度（10回/分）で圧迫と非同期に行う。"
+ },
+ {
+  "id": 45,
+  "domain": "basic_life_support_and_aed",
+  "front": "バッグバルブマスク換気で2人法が望ましいのはなぜか。",
+  "back": "一人が両手でマスクを密着させ、もう一人がバッグを押すと、気道確保とマスクの密着が確実になり漏れが減る。"
+ },
+ {
+  "id": 46,
+  "domain": "basic_life_support_and_aed",
+  "front": "30対2で人工呼吸が2回入らなくても、どうすべきか。",
+  "back": "換気を何度もやり直さず、速やかに胸骨圧迫を再開する。圧迫の中断が長引くことの害の方が大きい。"
+ },
+ {
+  "id": 47,
+  "domain": "basic_life_support_and_aed",
+  "front": "心停止中に過換気を避けなければならない理由は何か。",
+  "back": "過換気は胸腔内圧を上げて静脈還流を減らし、冠灌流圧と心拍出量を低下させるため。"
+ },
+ {
+  "id": 48,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫の担当者を交代する目安とタイミングは。",
+  "back": "約2分ごとに交代する。疲労で圧迫の質が落ちるため、リズム解析の時点に合わせて短時間で交代する。"
+ },
+ {
+  "id": 49,
+  "domain": "basic_life_support_and_aed",
+  "front": "病棟で倒れている患者を見つけたとき、最初にすることは。",
+  "back": "反応を確認し、なければ大声で応援を呼ぶ。呼吸と脈を確認して心停止と判断すれば直ちに胸骨圧迫を始める。"
+ },
+ {
+  "id": 50,
+  "domain": "basic_life_support_and_aed",
+  "front": "院内でコードを要請する目的は何か。",
+  "back": "蘇生チームを呼び、除細動器や救急カートなどの資器材と人手を早く集め、質の高い蘇生を継続するため。"
+ },
+ {
+  "id": 51,
+  "domain": "basic_life_support_and_aed",
+  "front": "除細動器が届くまでの間、蘇生者は何を続けるべきか。",
+  "back": "中断せずに胸骨圧迫と換気を続ける。除細動器が到着したら直ちにパッドを貼り、リズム解析に備える。"
+ },
+ {
+  "id": 52,
+  "domain": "basic_life_support_and_aed",
+  "front": "ベッド上で心停止した患者にバックボードを使う理由は。",
+  "back": "硬い面を確保し、圧迫の力が逃げないようにするため。ない場合は患者を床に降ろして圧迫する。"
+ },
+ {
+  "id": 53,
+  "domain": "basic_life_support_and_aed",
+  "front": "院内心停止の判断で、呼吸と脈の確認にかける時間は。",
+  "back": "10秒以内。確信が持てない場合は心停止とみなし、ためらわずに胸骨圧迫を開始する。"
+ },
+ {
+  "id": 54,
+  "domain": "basic_life_support_and_aed",
+  "front": "蘇生チームのリーダーに求められる役割は何か。",
+  "back": "全体を見渡して指示を出し、原則として自分は手技を担当しない。役割を明確にし、復唱して確認する。"
+ },
+ {
+  "id": 55,
+  "domain": "basic_life_support_and_aed",
+  "front": "電気ショックの前に必ず行う安全確認の内容は何か。",
+  "back": "全員が患者から離れていることを目で見て声に出して確認する。酸素の流れや接触の危険がないことも確かめる。"
+ },
+ {
+  "id": 56,
+  "domain": "basic_life_support_and_aed",
+  "front": "窒息で意識のある成人が咳をできているとき、どう対応するか。",
+  "back": "咳ができている間は咳を続けるよう促し、様子を見守る。咳ができなくなれば異物除去の手技に移る。"
+ },
+ {
+  "id": 57,
+  "domain": "basic_life_support_and_aed",
+  "front": "気道異物に対する背部叩打はどのように行うか。",
+  "back": "傷病者の背後から、左右の肩甲骨の間を手のひらの付け根で力強く叩く。異物が出るまで数回繰り返す。"
+ },
+ {
+  "id": 58,
+  "domain": "basic_life_support_and_aed",
+  "front": "腹部突き上げ法の手順を述べよ。",
+  "back": "背後から腕を回し、へその少し上で片方の握りこぶしをもう一方の手で包み、上方へ引き上げるように突く。"
+ },
+ {
+  "id": 59,
+  "domain": "basic_life_support_and_aed",
+  "front": "腹部突き上げを行ってはいけない対象は誰か。",
+  "back": "妊婦と乳児。腹部の圧迫は胎児や内臓の損傷の恐れがあるため、妊婦は胸部突き上げを用いる。"
+ },
+ {
+  "id": 60,
+  "domain": "basic_life_support_and_aed",
+  "front": "窒息で傷病者が反応を失ったとき、直ちに行うことは何か。",
+  "back": "直ちに心肺蘇生を始め、胸骨圧迫を行う。口の中に異物が見えるときは取り除く。"
+ },
+ {
+  "id": 61,
+  "domain": "basic_life_support_and_aed",
+  "front": "腹部突き上げを行った傷病者は、その後どうすべきか。",
+  "back": "異物が出ても必ず医療機関を受診させる。腹部突き上げは内臓損傷を起こす恐れがあるため。"
+ },
+ {
+  "id": 62,
+  "domain": "basic_life_support_and_aed",
+  "front": "強い気道閉塞を疑わせる典型的な所見は何か。",
+  "back": "声が出せない、咳ができない、両手でのどをつかむ（チョークサイン）。直ちに異物除去の手技を行う。"
+ },
+ {
+  "id": 63,
+  "domain": "basic_life_support_and_aed",
+  "front": "溺水による心停止でBLSの際に重視すべき点は何か。",
+  "back": "原因が低酸素であるため、人工呼吸を省略せず、胸骨圧迫と組み合わせて確実に行うことが重要である。"
+ },
+ {
+  "id": 64,
+  "domain": "basic_life_support_and_aed",
+  "front": "低体温による心停止が疑われる場合の対応の考え方は。",
+  "back": "脈の確認は慎重に行い、体温が低くても蘇生を続ける。復温を並行して進め、温まるまで蘇生を諦めない。"
+ },
+ {
+  "id": 65,
+  "domain": "basic_life_support_and_aed",
+  "front": "妊娠後期の妊婦が心停止したとき、体位で行う工夫は何か。",
+  "back": "子宮を用手的に左へ寄せ、大静脈の圧迫を解除して静脈還流を保つ。仰向けのまま胸骨圧迫を続ける。"
+ },
+ {
+  "id": 66,
+  "domain": "basic_life_support_and_aed",
+  "front": "妊婦の心停止で、蘇生に反応しないとき検討する処置は。",
+  "back": "蘇生的子宮切開（帝王切開）を早期に検討する。胎児を娩出すると母体の循環が改善する可能性がある。"
+ },
+ {
+  "id": 67,
+  "domain": "basic_life_support_and_aed",
+  "front": "外傷による心停止で、まず探して対処すべき原因は何か。",
+  "back": "大出血、緊張性気胸、心タンポナーデなどの可逆的な原因を速やかに探し、対処する。"
+ },
+ {
+  "id": 68,
+  "domain": "basic_life_support_and_aed",
+  "front": "感染の危険がある傷病者の蘇生で、着用すべき防護具は。",
+  "back": "手袋、マスク、ゴーグルやフェイスシールド、ガウンなどの個人防護具。着用してから蘇生に当たる。"
+ },
+ {
+  "id": 69,
+  "domain": "basic_life_support_and_aed",
+  "front": "感染の危険があり防護具も換気器具もないとき、どう対応するか。",
+  "back": "人工呼吸を省略して胸骨圧迫のみを行ってよい。圧迫を行わないよりも、圧迫のみでも続ける方がよい。"
+ },
+ {
+  "id": 70,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心室細動（VF）の心電図波形の特徴は何か。",
+  "back": "QRS波とT波の区別がつかない、不規則で振幅も形も一定しない波形である。心室が痙攣して有効な拍出がなく、脈は触れない。"
+ },
+ {
+  "id": 71,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "粗いVFと細かいVFの違いは何か。",
+  "back": "粗いVFは振幅が大きく、細かいVFは振幅が小さい波形である。どちらも電気ショックの適応であり、細かくても心静止とは扱いが異なる。"
+ },
+ {
+  "id": 72,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "細かいVFを心静止と誤認しないために確認することは何か。",
+  "back": "電極やリードの外れ、誘導の切り替え、ゲイン設定を確認する。細かいVFを見逃すと電気ショックの機会を失うためである。"
+ },
+ {
+  "id": 73,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心静止の心電図はどのように見えるか。",
+  "back": "電気活動がなく、ほぼ平坦な線になる。ただし電極外れや感度不良でも平坦に見えるため、接続と誘導の確認が必要である。"
+ },
+ {
+  "id": 74,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "VFを認めた時の最初の治療は何か。",
+  "back": "できるだけ早い電気ショックである。VFは電気ショックでのみ停止できるため、除細動までの時間が短いほど救命率が高い。"
+ },
+ {
+  "id": 75,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "VFは時間がたつと波形がどう変化しやすいか。",
+  "back": "粗いVFから細かいVFへ、やがて心静止へ移行しやすい。そのため早期の除細動と良質な胸骨圧迫が大切になる。"
+ },
+ {
+  "id": 76,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "除細動器の波形が乱れる原因として体動で起こりやすいことは何か。",
+  "back": "胸骨圧迫や体の動きによるアーチファクトである。リズム解析の時は圧迫を中断し、患者に触れず、波形を正確に判断する。"
+ },
+ {
+  "id": 77,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "無脈性電気活動（PEA）の定義は何か。",
+  "back": "心電図に心静止、VF、無脈性VT以外の波形があるのに、脈拍を触れない状態である。QRS波があっても心停止として扱う。"
+ },
+ {
+  "id": 78,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心電図に正常に見えるQRS波があれば脈があるといえるか。",
+  "back": "いえない。電気活動と拍出は別であり、必ず頸動脈などで脈拍を確認する。脈がなければPEAとして心停止の手順で対応する。"
+ },
+ {
+  "id": 79,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "PEAの時に脈拍確認は何秒以内で行うか。",
+  "back": "10秒以内である。確信が持てない時は脈なしとして扱い、胸骨圧迫を直ちに再開して、確認に時間をかけすぎない。"
+ },
+ {
+  "id": 80,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "PEAの治療の基本は何か。",
+  "back": "質の高い胸骨圧迫とエピネフリン投与を続けながら、原因（Hと T）を探して治療する。電気ショックの適応ではない。"
+ },
+ {
+  "id": 81,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "PEAで電気ショックを行わない理由は何か。",
+  "back": "PEAは電気的リズムが除細動で停止すべき異常ではないためである。ショックは有効でなく、圧迫の中断が害になる。"
+ },
+ {
+  "id": 82,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "ショック適応リズムはどれか。",
+  "back": "VFと無脈性心室頻拍（pVT）である。この二つは電気ショックで停止でき、リズムチェックのたびに適応を判断する。"
+ },
+ {
+  "id": 83,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "非ショック適応リズムはどれか。",
+  "back": "PEAと心静止である。電気ショックは行わず、胸骨圧迫を続けてエピネフリン投与と原因検索を進める。"
+ },
+ {
+  "id": 84,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "リズムチェックは何分ごとに行うか。",
+  "back": "約2分ごとである。2分間の胸骨圧迫の後にリズムを解析し、ショック適応かを判断して、次の手順を決める。"
+ },
+ {
+  "id": 85,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "ショック適応リズムで電気ショックの直後に行うことは何か。",
+  "back": "ただちに胸骨圧迫を再開する。ショック後に波形や脈を確認して中断せず、2分後のリズムチェックまで圧迫を続ける。"
+ },
+ {
+  "id": 86,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "非ショック適応リズムでエピネフリンは早期か後期か。",
+  "back": "できるだけ早期に投与する。非ショック適応では早期投与で自己心拍再開が得られやすく、静脈路や骨髄路を確保して行う。"
+ },
+ {
+  "id": 87,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "エピネフリンの投与間隔は何分か。",
+  "back": "3分から5分ごとに1mgを投与する。2分ごとのリズムチェックと合わせて、投与の時期を事前に決めておく。"
+ },
+ {
+  "id": 88,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "ショック適応リズムでショックに反応しない時に考慮する薬剤は何か。",
+  "back": "抗不整脈薬である。ショック不応のVFやpVTに対しアミオダロンなどを考慮し、圧迫と除細動を続けながら使用する。"
+ },
+ {
+  "id": 89,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心静止から途中でVFに変わった場合はどうするか。",
+  "back": "リズムチェックでVFと判断したら、ショック適応リズムの手順に切り替える。除細動の準備をして、安全確認後に電気ショックを行う。"
+ },
+ {
+  "id": 90,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "トルサード・ド・ポアンツとはどんな不整脈か。",
+  "back": "QRS波の振幅が捻れるように変化する多形性心室頻拍である。QT延長を背景に起こりやすく、VFに移行しやすい。"
+ },
+ {
+  "id": 91,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "トルサード・ド・ポアンツと関連が深い心電図所見は何か。",
+  "back": "QT延長である。心室の再分極が遅れ、R on T型の心室期外収縮をきっかけにして発生しやすくなる。"
+ },
+ {
+  "id": 92,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "QT延長を起こしやすい要因を二つ挙げよ。",
+  "back": "低カリウム血症や低マグネシウム血症などの電解質異常、QT延長を起こす薬剤である。原因の是正が再発防止に役立つ。"
+ },
+ {
+  "id": 93,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "脈が触れないトルサード・ド・ポアンツの処置は何か。",
+  "back": "VFと同様に、ただちに電気ショックを行う。同期ではなく非同期で除細動し、その後に胸骨圧迫を再開する。"
+ },
+ {
+  "id": 94,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "トルサード・ド・ポアンツに有効とされる薬剤は何か。",
+  "back": "硫酸マグネシウムである。QT延長を伴う場合に投与を考慮する。低カリウム血症があればその補正も併せて行う。"
+ },
+ {
+  "id": 95,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "トルサード・ド・ポアンツの波形が通常の単形性VTと違う点は何か。",
+  "back": "QRSの形と振幅が一拍ごとに変わり、基線を軸に捻れて見える点である。単形性VTはQRSの形がほぼ一定である。"
+ },
+ {
+  "id": 96,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "多形性心室頻拍で脈が触れる時の注意点は何か。",
+  "back": "不安定でVFに移行しうるため、慎重に監視し、循環が不安定なら電気的治療を準備する。原因となるQT延長因子も確認する。"
+ },
+ {
+  "id": 97,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "高度房室ブロックが心停止に進む危険があるのはなぜか。",
+  "back": "心室の補充調律が遅く不安定になり、徐脈から心静止やPEAに至ることがあるためである。早期の認識と対応が重要である。"
+ },
+ {
+  "id": 98,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "完全房室ブロックの心電図の特徴は何か。",
+  "back": "P波とQRS波が無関係に出現し、心房と心室が独立して動く。QRS幅の広い補充調律で徐脈になることが多い。"
+ },
+ {
+  "id": 99,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "症候性の高度徐脈で脈がある時の対応は何か。",
+  "back": "酸素投与とモニタリングを行い、アトロピンを考慮し、無効なら経皮ペーシングを準備する。心停止になれば直ちにCPRを始める。"
+ },
+ {
+  "id": 100,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "徐脈が進行して脈が触れなくなったらどう扱うか。",
+  "back": "心停止として扱い、直ちに胸骨圧迫を開始する。波形が徐脈でも、脈がなければPEAか心静止の手順に従う。"
+ },
+ {
+  "id": 101,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心室期外収縮の連発が危険な理由は何か。",
+  "back": "R on T型や連発はVTやVFの引き金になり、心停止に至ることがあるためである。急変の前兆としてモニターで注意する。"
+ },
+ {
+  "id": 102,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心停止前のモニターで注意すべき心室性不整脈の所見は何か。",
+  "back": "多源性や連発する心室期外収縮、R on T、非持続性VTである。出現時は急変に備えて除細動器を準備し、原因を探す。"
+ },
+ {
+  "id": 103,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "脈の触れる心室頻拍で循環が不安定な時の処置は何か。",
+  "back": "同期下電気ショック（カルディオバージョン）を行う。脈のないVTは非同期の除細動で、ここが両者の大きな違いである。"
+ },
+ {
+  "id": 104,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "無脈性心室頻拍（pVT）の電気ショックの適応はどう考えるか？",
+  "back": "pVTはVFと同じく電気ショックの適応リズムである。脈がなく反応もないため、心停止として速やかに除細動を行う。"
+ },
+ {
+  "id": 105,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心室頻拍の波形だけで、脈の有無を判断できるか？",
+  "back": "できない。同じ波形でも脈がある場合とない場合があるため、必ず患者の反応や脈、呼吸の状態と合わせて判断する。"
+ },
+ {
+  "id": 106,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "モニターが心室頻拍の波形でも、反応も脈もないときの対応は？",
+  "back": "pVTとして心停止の手順に入る。直ちに胸骨圧迫を行い、除細動器の準備を進めて電気ショックを実施する。"
+ },
+ {
+  "id": 107,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "電気ショックの適応となる心停止の波形を二つ挙げよ。",
+  "back": "VFとpVTである。PEAと心静止は電気ショックの適応ではなく、胸骨圧迫を中心とした対応を続ける。"
+ },
+ {
+  "id": 108,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "脈のある心室頻拍と無脈性心室頻拍で、対応の根本的な違いは？",
+  "back": "脈があれば循環が保たれており状態に応じた治療を行う。無脈性は心停止であり、胸骨圧迫と除細動が最優先となる。"
+ },
+ {
+  "id": 109,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心停止の判断で脈の有無に迷ったときはどうするか？",
+  "back": "脈を確認する時間をかけすぎず、迷ったときは心停止とみなして直ちに胸骨圧迫を開始する。"
+ },
+ {
+  "id": 110,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "pVTとVFでは除細動の判断に違いがあるか？",
+  "back": "違いはない。どちらも電気ショックの適応であり、波形の種類よりも早く除細動を行うことが重要である。"
+ },
+ {
+  "id": 111,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心静止と判断する前に確認すべき機器の問題は？",
+  "back": "リード外れ、電極の接触不良、モニターの感度、誘導の選択、電源などを確認する。機器の問題で平坦に見えることがある。"
+ },
+ {
+  "id": 112,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心静止の確認でモニターの感度を調べる理由は？",
+  "back": "感度が低いと小さな振幅のVFが平坦に見え、心静止と誤認するおそれがあるため。感度を上げて確認する。"
+ },
+ {
+  "id": 113,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心静止を疑ったとき、誘導を変えて確認するのはなぜか？",
+  "back": "一つの誘導では波が見えにくいことがあるため、別の誘導でも平坦であることを確認して誤判断を防ぐ。"
+ },
+ {
+  "id": 114,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心静止に対して電気ショックは行うか？",
+  "back": "行わない。電気ショックの適応ではないため、胸骨圧迫を続けて静脈路や骨髄路を確保し、薬剤投与と原因検索を進める。"
+ },
+ {
+  "id": 115,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心静止の対応で最も優先されることは？",
+  "back": "質の高い胸骨圧迫を中断を最小限にして続けること。並行して気道確保や血管確保を進め、可逆的な原因を探す。"
+ },
+ {
+  "id": 116,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "モニターが平坦でも、リード外れを疑う場面とは？",
+  "back": "電極が患者に付いていなければ波形が記録されない。平坦な線を見たら電極の装着状態をまず確認する。"
+ },
+ {
+  "id": 117,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心静止と思った波形が実は細かいVFだった場合の問題点は？",
+  "back": "電気ショックの適応を見落とす。感度やリード、誘導を確認して誤認を防ぐことが、除細動の機会を逃さないために重要。"
+ },
+ {
+  "id": 118,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "胸骨圧迫中にモニター波形が乱れるのはなぜか？",
+  "back": "圧迫の動きによるアーチファクトが混入するため。圧迫中の波形では正確なリズム判断ができない。"
+ },
+ {
+  "id": 119,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "リズム判断はどのタイミングの波形で行うか？",
+  "back": "リズムチェックで胸骨圧迫を短時間止めたときの波形で行う。圧迫中の波形で電気ショックの判断をしない。"
+ },
+ {
+  "id": 120,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "リード外れやアーチファクトでよく見られる波形の特徴は？",
+  "back": "基線の不規則な揺れや突然の大きな波形、または平坦化が見られる。患者の状態と電極の装着を確認して判断する。"
+ },
+ {
+  "id": 121,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "電気ショックの適応を判断する条件は何か？",
+  "back": "脈を触れない心停止で、リズムチェック時の波形がVFまたはpVTであること。波形だけでなく患者の状態も確認する。"
+ },
+ {
+  "id": 122,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "電気ショックの直後、次の波形確認はいつ行うか？",
+  "back": "直ちに胸骨圧迫を再開し、次のリズムチェックは約2分後に行う。ショック直後に波形や脈の確認で圧迫を止めない。"
+ },
+ {
+  "id": 123,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "AEDの解析中に患者に触れてはいけないのはなぜか？",
+  "back": "体動や接触によるアーチファクトが解析を誤らせるおそれがあるため。解析中は誰も患者に触れないようにする。"
+ },
+ {
+  "id": 124,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "モニター波形と患者の状態が合わないとき、まず何を疑うか？",
+  "back": "アーチファクトやリード外れなど機器や装着の問題を疑う。患者の反応、呼吸、脈を直接確認して判断する。"
+ },
+ {
+  "id": 125,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "リズムチェックはどのくらいの間隔で行うか？",
+  "back": "約2分ごとに行う。その間は胸骨圧迫を続け、質の高い圧迫を保ちながら必要な処置を進める。"
+ },
+ {
+  "id": 126,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "リズムチェックでの胸骨圧迫の中断はどうあるべきか？",
+  "back": "できるだけ短くする。中断が長いと冠動脈の血流が低下し、心拍再開の可能性が下がるため最小限にする。"
+ },
+ {
+  "id": 127,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "電気ショックの準備中、胸骨圧迫はどうするか？",
+  "back": "充電中も圧迫を続け、ショックの直前だけ離れる。直後にすぐ再開することで中断時間を最小限にする。"
+ },
+ {
+  "id": 128,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "リズムチェックで脈を確認するときの注意点は？",
+  "back": "確認に時間をかけない。脈が確実に触れなければ脈なしとみなし、直ちに胸骨圧迫を再開する。"
+ },
+ {
+  "id": 129,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "リズムチェックでVFやpVTが続いているときの対応は？",
+  "back": "電気ショックを行い、直後に胸骨圧迫を再開して次の約2分へ進む。波形の変化は次のリズムチェックで評価する。"
+ },
+ {
+  "id": 130,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "リズムチェックで規則的な波形が見えたとき、次に行うことは？",
+  "back": "脈を確認する。脈があればROSCとして心拍再開後の管理へ、脈がなければPEAとして胸骨圧迫を続ける。"
+ },
+ {
+  "id": 131,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "VFからPEAに波形が変わったときの対応は？",
+  "back": "電気ショックは行わず胸骨圧迫を続け、アドレナリン投与と可逆的な原因の検索を進める。"
+ },
+ {
+  "id": 132,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "幅の狭いQRSの徐脈性PEAで、まず考える原因は？",
+  "back": "低酸素を第一に考える。換気と酸素投与が十分かを確認し、気道確保の状態も見直して原因検索を行う。"
+ },
+ {
+  "id": 133,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "QRS幅が広いPEAで疑う原因を挙げよ。",
+  "back": "高カリウム血症、アシドーシス、薬物中毒などを疑う。腎不全などの背景や服薬歴から原因の手がかりを探す。"
+ },
+ {
+  "id": 134,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "高カリウム血症で見られる心電図の所見は？",
+  "back": "テント状T波、P波の消失、QRS幅の拡大などが見られる。重症では正弦波のような形になることがある。"
+ },
+ {
+  "id": 135,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "高カリウム血症を疑う背景として重要なものは？",
+  "back": "腎不全や透析中の患者、カリウムを上げる薬剤の使用などが背景にある。病歴の情報が原因検索の手がかりになる。"
+ },
+ {
+  "id": 136,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心電図波形が可逆的な原因の検索に役立つのはなぜか？",
+  "back": "QRS幅や心拍数から低酸素や電解質異常などの原因を絞り込め、早期に原因への治療を始められるため。"
+ },
+ {
+  "id": 137,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "PEAとはどのような状態か？",
+  "back": "心電図に電気活動はあるが脈を触れない状態で、VFやpVTは除く。電気ショックの適応ではなく胸骨圧迫を続ける。"
+ },
+ {
+  "id": 138,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "PEAで電気活動があっても胸骨圧迫が必要なのはなぜか？",
+  "back": "電気活動があっても心臓が有効に収縮せず十分な心拍出がないため。圧迫で脳や心臓への血流を保つ。"
+ },
+ {
+  "id": 139,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "手動式除細動器で、電源を入れた直後に最初に行う操作は何か。",
+  "back": "電源を入れた後、パッドを貼ってモニターで心電図波形（誘導）を確認する。リズムがVFかpVTかを見極めてから充電に進むため。"
+ },
+ {
+  "id": 140,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "手動式除細動器の操作を正しい順に並べるとどうなるか。",
+  "back": "電源、パッド装着と誘導、リズム確認、エネルギー選択、充電、安全確認、放電の順。順序を守ると誤ショックや二次事故を防げる。"
+ },
+ {
+  "id": 141,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "二相性除細動器でのエネルギー選択の原則は何か。",
+  "back": "機器ごとに推奨された値に合わせる。分からない場合は最大エネルギーとする。単相性なら360 Jを用いる。"
+ },
+ {
+  "id": 142,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "除細動の充電は、いつ開始するのが望ましいか。",
+  "back": "胸骨圧迫を続けながら充電する。圧迫の中断時間を最小限にして、ショックの直前直後の中断を短くするため。"
+ },
+ {
+  "id": 143,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "放電の直前に行う安全確認では、何を確かめるか。",
+  "back": "傷病者や周囲の人に誰も触れていないことを声に出して確認する。酸素の流れも胸部から離す。感電や火災を避けるため。"
+ },
+ {
+  "id": 144,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "放電ボタンを押す直前に、リーダーが必ず行うことは何か。",
+  "back": "「離れて」と宣言し、全員が傷病者から離れたことを目で確認する。確認前の放電は救助者の感電につながる。"
+ },
+ {
+  "id": 145,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "成人の標準的な電極パッドの貼付位置（前側方）はどこか。",
+  "back": "右前胸部の鎖骨下と、左側胸部（心尖部、中腋窩線付近）に貼る。心臓を挟んで電流が通るようにするため。"
+ },
+ {
+  "id": 146,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "パッドを前後に貼る方法では、どこに貼るか。",
+  "back": "前胸部の心臓の上と、背部の左肩甲骨下付近に貼る。前側方に貼りにくい場合の代替位置として用いる。"
+ },
+ {
+  "id": 147,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "胸毛が濃くてパッドが密着しにくい場合、どう対応するか。",
+  "back": "素早く剃毛するか、予備のパッドで毛を除いて密着させる。毛の下に空気が入ると通電が悪く、熱傷の原因にもなる。"
+ },
+ {
+  "id": 148,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "胸部が水や汗で濡れているとき、電気ショック前にすべきことは何か。",
+  "back": "胸部の水分を素早く拭き取ってからパッドを貼る。水を介して電流が体表を流れ、効果低下や熱傷を招くため。"
+ },
+ {
+  "id": 149,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ニトログリセリンなどの貼付薬がパッド位置にあるとき、どうするか。",
+  "back": "貼付薬をはがして皮膚を拭いてから貼る。パッドの下に薬があると、通電時に熱傷や爆発的な発火を起こすおそれがある。"
+ },
+ {
+  "id": 150,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "植込み型ペースメーカー（皮下の膨らみ）がある人へのパッドの貼り方は？",
+  "back": "膨らみの真上を避けて貼る。機器の上に直接貼ると通電が妨げられ、機器が損傷するおそれがあるが、ショックは遅らせない。"
+ },
+ {
+  "id": 151,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "電気ショックの直後に、直ちに行うべきことは何か。",
+  "back": "脈やリズムを確認せず、直ちに胸骨圧迫から再開する。ショック後は心拍があっても効果的な拍出が戻りにくいため。"
+ },
+ {
+  "id": 152,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショック後、次のリズムチェックはどのタイミングで行うか。",
+  "back": "胸骨圧迫を約2分間続けた後に行う。圧迫の中断を減らし、冠灌流を保って次の判断につなげるため。"
+ },
+ {
+  "id": 153,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショック直後に脈を触れて確認しないのはなぜか。",
+  "back": "ショック後は有効な心拍出が戻るまで時間がかかるため。脈の確認で圧迫が止まるより、2分間の圧迫継続が優先される。"
+ },
+ {
+  "id": 154,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "電気ショックの前後の胸骨圧迫の中断を短くする理由は何か。",
+  "back": "中断が長いほど冠灌流圧が下がり、ショックの成功率と生存率が下がるため。ショックまでの中断は最小限にする。"
+ },
+ {
+  "id": 155,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショックが適応となる心停止のリズムはどれか。",
+  "back": "VF（心室細動）と脈なしVT（pVT）。PEAや心静止はショックの適応がなく、胸骨圧迫と薬剤、原因検索を続ける。"
+ },
+ {
+  "id": 156,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショックを繰り返してもVFが続く難治性VF/pVTで、ショックのエネルギーはどうするか。",
+  "back": "同じか、機器が許せばより高いエネルギーを考慮して続ける。同時に質の高い胸骨圧迫と薬剤投与、原因検索を進める。"
+ },
+ {
+  "id": 157,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショック不応のVF/pVTで使う抗不整脈薬は何か。",
+  "back": "アミオダロン（初回300 mg）を考慮する。追加投与は150 mg。使えないときはニフェカラントやリドカインを検討する。"
+ },
+ {
+  "id": 158,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "心停止中のアドレナリンの標準的な投与量と間隔は何か。",
+  "back": "1 mgを静脈内または骨髄路から3から5分ごとに投与する。ショック不要のリズムでは、なるべく早期に投与する。"
+ },
+ {
+  "id": 159,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "難治性VF/pVTで、薬剤投与のほかに必ず考えることは何か。",
+  "back": "可逆的な原因（低酸素、循環血液量減少、電解質異常、体温異常、心筋梗塞、緊張性気胸など）の検索と治療を並行して行う。"
+ },
+ {
+  "id": 160,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "難治性VFで、可能なら考えるべき高度な治療の方向性は何か。",
+  "back": "原因が心筋梗塞などの場合、ECPRや冠動脈造影を考慮し、早期に搬送や専門施設への連絡を行う。現場の要因も同時に整理する。"
+ },
+ {
+  "id": 161,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "充電したのに放電する前にリズムが変わった場合、どうするか。",
+  "back": "必要に応じて放電せず内部放電（エネルギーを解除）し、リズムを再評価する。ショック不要のリズムに放電しないため。"
+ },
+ {
+  "id": 162,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "充電ができない（充電されない）とき、まず確認することは何か。",
+  "back": "電源とバッテリー、エネルギー選択、同期モードの設定などを確認する。圧迫を継続し、直ちに予備の機器やAEDを使う。"
+ },
+ {
+  "id": 163,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "モニターに心電図波形が出ないとき、最初に確認することは何か。",
+  "back": "パッドの密着、ケーブルの接続、誘導の選択を確認する。波形が出ない間も胸骨圧迫は続け、必要なら別の誘導や機器を使う。"
+ },
+ {
+  "id": 164,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "除細動器が同期モードのままで放電されないとき、どう対応するか。",
+  "back": "非同期（除細動）モードに切り替える。VFや脈なしVTにはR波同期が働かないため、同期のままではショックが出ない。"
+ },
+ {
+  "id": 165,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "VF/pVTの電気ショックで、同期させない理由は何か。",
+  "back": "VFには明確なR波がなく同期できないため。pVTでも、同期を待つ間にショックが遅れると救命の機会を失う。"
+ },
+ {
+  "id": 166,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "波形が除細動器に出ず、AEDに切り替える場合の利点は何か。",
+  "back": "自動解析で適応を判断し、音声で手順が示される点。不具合時に迷わずショックまで進めるため、予備として有用である。"
+ },
+ {
+  "id": 167,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "除細動器の不具合で時間を失わないため、リーダーが優先することは何か。",
+  "back": "胸骨圧迫を中断せず、別の機器を要請して交換する。機器の原因探しで圧迫が止まる時間を作らないことが優先される。"
+ },
+ {
+  "id": 168,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "パッドが傷病者に十分に密着していないと、どんな問題が起こるか。",
+  "back": "通電が弱まりショックが無効になるほか、皮膚の熱傷や火花の原因になる。貼る前に皮膚を拭き、しっかり押さえて貼る。"
+ },
+ {
+  "id": 169,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "二相性除細動器でVFにショックを行うときのエネルギー選択の原則は何か。",
+  "back": "その機種に表示された推奨エネルギー量を用いる。推奨量が不明な場合は、その機器の最大エネルギーを選ぶ。"
+ },
+ {
+  "id": 170,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "単相性除細動器で電気ショックを行うときのエネルギーは何Jか。",
+  "back": "360Jで行う。単相性は二相性より除細動効率が低いため、最初から最大エネルギーを用いる。"
+ },
+ {
+  "id": 171,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "2回目以降のショックのエネルギーは、1回目とどう考えるか。",
+  "back": "同じエネルギー量か、機種によってはより高いエネルギー量を選んでもよい。1回目で戻らなくても、下げることはしない。"
+ },
+ {
+  "id": 172,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "二相性が単相性より好まれる理由は何か。",
+  "back": "より低いエネルギーで同等以上に除細動でき、心筋障害も少ないとされるため。ただし機種ごとの推奨量を守る。"
+ },
+ {
+  "id": 173,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショック前の「離れて」の声かけで、実際に確認する対象を挙げよ。",
+  "back": "自分を含め誰も患者や接続物に触れていないこと、酸素が患者から離れていること、ベッド柵などの金属に接触していないこと。"
+ },
+ {
+  "id": 174,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショック時に酸素の流れを患者から離す理由は何か。",
+  "back": "酸素が充満した環境で放電すると火花で発火する危険があるため。バッグバルブマスクは胸部から1m以上離す。"
+ },
+ {
+  "id": 175,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "安全確認は声かけだけで足りるか。",
+  "back": "足りない。声に出すだけでなく、全員の手が離れていることを自分の目で見て確認してからショックボタンを押す。"
+ },
+ {
+  "id": 176,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショックを行う人が、自分自身について確認すべきことは何か。",
+  "back": "自分が患者、ベッド、他の機器に触れていないこと。通電時に術者自身が感電する事故を防ぐため。"
+ },
+ {
+  "id": 177,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "除細動器の充電中、胸骨圧迫はどうするか。",
+  "back": "続ける。充電中も圧迫を止めないことで、ショック前の胸骨圧迫の中断時間を短くできる。"
+ },
+ {
+  "id": 178,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショックボタンを押す直前に、胸骨圧迫者は何をするか。",
+  "back": "充電完了後、安全確認の声かけに合わせて圧迫を止め、手を胸から離す。できるだけ短時間で中断する。"
+ },
+ {
+  "id": 179,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショック直後に行うことは何か。",
+  "back": "すぐに胸骨圧迫を再開する。脈拍やリズムの確認で時間を使わず、次の2分間のサイクルへ入る。"
+ },
+ {
+  "id": 180,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "電気ショック前後の胸骨圧迫の中断を短くする理由は何か。",
+  "back": "中断が長いほど冠動脈灌流圧が下がり、ショックの成功率と生存率が低下するため。"
+ },
+ {
+  "id": 181,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "ショック後すぐリズムチェックをせず圧迫を再開する理由は何か。",
+  "back": "除細動後は有効な心拍があっても拍出が弱く、圧迫を続けることで循環を保てる。確認は2分後に行う。"
+ },
+ {
+  "id": 182,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "VFやpVTの電気ショックは、同期か非同期のどちらで行うか。",
+  "back": "非同期で行う。VFには明確なR波がなく、pVTは脈のない状態であり、すぐに通電する必要があるため。"
+ },
+ {
+  "id": 183,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "同期電気ショックとは、どのような方法か。",
+  "back": "心電図のR波に合わせて通電する方法。T波上の通電でVFを誘発することを避けるために用いる。"
+ },
+ {
+  "id": 184,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "同期電気ショック（カルディオバージョン）の主な適応は何か。",
+  "back": "脈を触れるが、血圧低下や意識障害などで不安定な頻拍。脈のない心停止には適応でない。"
+ },
+ {
+  "id": 185,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "脈のある不安定な頻拍に同期ショックを行う前に配慮することは何か。",
+  "back": "意識がある場合は鎮静と鎮痛を考慮する。通電は痛みを伴うため、可能な範囲で苦痛を和らげる。"
+ },
+ {
+  "id": 186,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "同期ショックの手順で、通電前に必ず確認する画面の状態は何か。",
+  "back": "同期モードになり、モニター上のR波に同期マーカーが表示されていること。確認してから充電と通電に進む。"
+ },
+ {
+  "id": 187,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "VFに対し同期モードのままショックボタンを押すと、何が起こりうるか。",
+  "back": "R波がないためボタンを押しても通電されない、または遅れる恐れがある。VFでは必ず非同期に切り替える。"
+ },
+ {
+  "id": 188,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "同期ショック後、多くの除細動器で同期モードはどうなるか。",
+  "back": "非同期に戻る機種が多い。次の通電が必要なら、そのつど同期を入れ直したか確認する。"
+ },
+ {
+  "id": 189,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "心停止中にVFが続くのに、同期のままで通電できないとき、まず何をするか。",
+  "back": "同期を解除して非同期にし、直ちに充電とショックを行う。ただし圧迫は継続したまま操作する。"
+ },
+ {
+  "id": 190,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "同期ショックと非同期ショックを使い分ける基準は何か。",
+  "back": "脈がなく心停止のVFやpVTは非同期、脈があり不安定な頻拍は同期。脈の有無が判断の基準となる。"
+ },
+ {
+  "id": 191,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "AEDと手動式除細動器の最大の違いは何か。",
+  "back": "AEDは機器が心電図を自動解析し、ショックの要否を判断する。手動式は医療者が波形を読んで判断する。"
+ },
+ {
+  "id": 192,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "AEDが解析中、周囲の人は何をしてはいけないか。",
+  "back": "患者に触れてはいけない。体動や接触が心電図に混入し、正しい解析を妨げるため。"
+ },
+ {
+  "id": 193,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "AEDの電極パッドを貼る標準的な位置はどこか。",
+  "back": "右前胸部の鎖骨の下と、左側胸部の腋の下に貼る。心臓をはさむ位置にすると電流が通りやすい。"
+ },
+ {
+  "id": 194,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "AEDで「ショックは不要です」と音声が出たとき、どうするか。",
+  "back": "ただちに胸骨圧迫を再開し、パッドは付けたまま、次の解析まで2分間続ける。脈の確認で止めない。"
+ },
+ {
+  "id": 195,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "AEDから手動式除細動器に切り替える場面はどんなときか。",
+  "back": "院内などで医師や訓練を受けた医療者がそろい、手動式が到着したとき。切り替えで中断を長くしない。"
+ },
+ {
+  "id": 196,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "AEDから手動式へ切り替えるとき、中断を最小にするために大切なことは何か。",
+  "back": "圧迫を続けながら準備し、パッドを貼り替えず使えるなら流用する。切り替えは解析のタイミングに合わせる。"
+ },
+ {
+  "id": 197,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "除細動を行うチームで、ショック担当者の役割は何か。",
+  "back": "リズムを確認し、エネルギー設定、充電、安全確認、通電を担当する。声かけで全員の手を離させる。"
+ },
+ {
+  "id": 198,
+  "domain": "defibrillation_and_electrical_shock",
+  "front": "リーダーがショックの前にチームへ伝える内容は何か。",
+  "back": "リズムがVFまたはpVTであること、ショックを行う指示、安全確認の依頼。役割を明確に指示して連携する。"
+ },
+ {
+  "id": 199,
+  "domain": "airway_management_and_ventilation",
+  "front": "頭部後屈あご先挙上法はどのように行うか。",
+  "back": "一方の手を額に当てて頭を後ろに傾け、もう一方の指をあごの骨の部分に当てて持ち上げる。舌根沈下を解除して気道を開く方法である。"
+ },
+ {
+  "id": 200,
+  "domain": "airway_management_and_ventilation",
+  "front": "頭部後屈あご先挙上法で、あごを持ち上げるとき避けるべきことは。",
+  "back": "あごの下の柔らかい部分（軟部組織）を強く圧迫しないこと。気道を狭めてしまうおそれがあるため、骨の部分に指を当てる。"
+ },
+ {
+  "id": 201,
+  "domain": "airway_management_and_ventilation",
+  "front": "下顎挙上法が選ばれるのはどんな場面か。",
+  "back": "頸椎損傷が疑われるとき。頭部を後屈させず、下顎を前方に押し出して気道を確保する方法である。"
+ },
+ {
+  "id": 202,
+  "domain": "airway_management_and_ventilation",
+  "front": "下顎挙上法で気道が開かないときはどうするか。",
+  "back": "気道確保を優先し、頭部後屈あご先挙上法に切り替える。気道が開かなければ換気ができず、救命できないためである。"
+ },
+ {
+  "id": 203,
+  "domain": "airway_management_and_ventilation",
+  "front": "意識のない傷病者の気道閉塞の最も多い原因は何か。",
+  "back": "舌根が咽頭後壁に落ち込む舌根沈下が主な原因。頭部後屈あご先挙上で舌を持ち上げて解除する。"
+ },
+ {
+  "id": 204,
+  "domain": "airway_management_and_ventilation",
+  "front": "経口エアウェイを使ってよい意識状態は。",
+  "back": "意識がなく、嘔吐反射（咽頭反射）がない傷病者。反射が残っていると嘔吐や喉頭けいれんを誘発するおそれがあるため。"
+ },
+ {
+  "id": 205,
+  "domain": "airway_management_and_ventilation",
+  "front": "経口エアウェイのサイズの選び方は。",
+  "back": "口角から耳たぶ（耳垂）までの長さを目安に選ぶ。短すぎると舌を押さえられず、長すぎると喉頭蓋を押して閉塞させる。"
+ },
+ {
+  "id": 206,
+  "domain": "airway_management_and_ventilation",
+  "front": "経鼻エアウェイが経口より向く場面は。",
+  "back": "嘔吐反射が残っていて経口が入らない場合や、開口できない場合。ただし頭蓋底骨折が疑われるときは慎重に判断する。"
+ },
+ {
+  "id": 207,
+  "domain": "airway_management_and_ventilation",
+  "front": "経鼻エアウェイのサイズの目安は。",
+  "back": "鼻孔から耳たぶまでの長さが目安。太さは鼻孔に無理なく入るものを選び、潤滑剤を塗って挿入する。"
+ },
+ {
+  "id": 208,
+  "domain": "airway_management_and_ventilation",
+  "front": "エアウェイを入れれば用手的気道確保は不要か。",
+  "back": "不要ではない。エアウェイは舌根沈下の解除を補助するだけなので、頭部後屈あご先挙上などの気道確保を併用する。"
+ },
+ {
+  "id": 209,
+  "domain": "airway_management_and_ventilation",
+  "front": "バッグバルブマスクのEC法とはどんな持ち方か。",
+  "back": "親指と人差し指でC字を作りマスクを顔に密着させ、残りの指でEの形にあごを持ち上げる。空気漏れを防ぐ持ち方である。"
+ },
+ {
+  "id": 210,
+  "domain": "airway_management_and_ventilation",
+  "front": "バッグバルブマスク換気を2人で行う利点は。",
+  "back": "1人がマスク保持に専念し、もう1人がバッグを押すため密着しやすく漏れが少ない。1人法より有効な換気を得やすい。"
+ },
+ {
+  "id": 211,
+  "domain": "airway_management_and_ventilation",
+  "front": "バッグバルブマスクにリザーバーを付ける理由は。",
+  "back": "酸素をためて高濃度の酸素を送るため。リザーバー付きで高流量（10 L/分以上）の酸素を接続して使用する。"
+ },
+ {
+  "id": 212,
+  "domain": "airway_management_and_ventilation",
+  "front": "バッグバルブマスクでの1回換気量の目安は。",
+  "back": "胸の上がりが確認できる程度で、約1秒かけて送る。強く速く押し込むと胃膨満や胸腔内圧の上昇を招く。"
+ },
+ {
+  "id": 213,
+  "domain": "airway_management_and_ventilation",
+  "front": "心停止中の過換気がなぜ傷病者にとって有害か。",
+  "back": "胸腔内圧が上がり静脈還流が減って心拍出量や冠灌流が低下する。また胃膨満による嘔吐や誤嚥の危険も高まる。"
+ },
+ {
+  "id": 214,
+  "domain": "airway_management_and_ventilation",
+  "front": "声門上デバイスの代表例を挙げよ。",
+  "back": "ラリンゲアルマスクやi-gelなど。喉頭の上に置いて気道を確保する器具で、気管挿管より挿入しやすい。"
+ },
+ {
+  "id": 215,
+  "domain": "airway_management_and_ventilation",
+  "front": "声門上デバイスと気管挿管のどちらを選ぶかの基準は。",
+  "back": "状況と術者の技能で選ぶ。熟練者がいれば気管挿管、そうでなければ声門上デバイスが選択肢。確実に実施できる方法を選ぶ。"
+ },
+ {
+  "id": 216,
+  "domain": "airway_management_and_ventilation",
+  "front": "高度な気道確保を行うときの原則は。",
+  "back": "胸骨圧迫の中断を最小限にして行う。手間取るときは無理に続けず、バッグバルブマスクによる換気に戻る。"
+ },
+ {
+  "id": 217,
+  "domain": "airway_management_and_ventilation",
+  "front": "声門上デバイスは誤嚥予防の点で気管挿管に比べどうか。",
+  "back": "気管チューブのカフほど確実には誤嚥を防げない。そのため胃内容物の逆流の危険に注意しながら使用する。"
+ },
+ {
+  "id": 218,
+  "domain": "airway_management_and_ventilation",
+  "front": "高度な気道確保をすれば心停止の転帰が必ず改善するか。",
+  "back": "必ずしもそうではない。心停止では質の高い胸骨圧迫と早期の除細動が優先で、高度な気道確保は適切な技能がある場合に行う。"
+ },
+ {
+  "id": 219,
+  "domain": "airway_management_and_ventilation",
+  "front": "気管挿管後の確認で最も信頼できる方法は。",
+  "back": "呼気CO2モニター（波形表示）による確認。胸の上がりや聴診と併せて行い、波形が連続して出ればチューブは気管内と判断する。"
+ },
+ {
+  "id": 220,
+  "domain": "airway_management_and_ventilation",
+  "front": "気管挿管の確認で胸の上がり以外に何を聴診するか。",
+  "back": "心窩部と左右の胸部（両側の腋窩付近）を聴診する。心窩部で空気音が聞こえれば食道挿管を疑う。"
+ },
+ {
+  "id": 221,
+  "domain": "airway_management_and_ventilation",
+  "front": "食道挿管を疑う所見は。",
+  "back": "心窩部で送気音が聞こえる、胸が上がらない、呼気CO2波形が出ない場合など。直ちに抜去してバッグバルブマスクで換気し、再度確保する。"
+ },
+ {
+  "id": 222,
+  "domain": "airway_management_and_ventilation",
+  "front": "気管チューブ挿入後に必要な処置は。",
+  "back": "カフに空気を入れ、チューブを固定し、挿入の深さを確認する。体位変換や搬送でも位置が変わるため、固定後も再確認を繰り返す。"
+ },
+ {
+  "id": 223,
+  "domain": "airway_management_and_ventilation",
+  "front": "聴診だけで気管挿管を確認してはいけない理由は。",
+  "back": "心肺蘇生中は周囲の騒音もあり聴診は誤りやすいため。呼気CO2波形表示を併用して確認することが重要である。"
+ },
+ {
+  "id": 224,
+  "domain": "airway_management_and_ventilation",
+  "front": "心停止で高度な気道確保をした後の換気回数は。",
+  "back": "10回/分程度。約6秒に1回の割合で行い、胸骨圧迫とは同期させず圧迫は中断せず連続して行う。"
+ },
+ {
+  "id": 225,
+  "domain": "airway_management_and_ventilation",
+  "front": "高度な気道確保後、胸骨圧迫と換気の関係は。",
+  "back": "圧迫と同期させず、圧迫は連続して100から120回/分で行い、換気は別に10回/分程度で行う（非同期）。"
+ },
+ {
+  "id": 226,
+  "domain": "airway_management_and_ventilation",
+  "front": "高度な気道確保がない場合の圧迫と換気の比は。",
+  "back": "30対2。30回の圧迫のあと2回の換気を行い、換気のための胸骨圧迫の中断は最小限にする。"
+ },
+ {
+  "id": 227,
+  "domain": "airway_management_and_ventilation",
+  "front": "換気の回数が多くなりすぎないための工夫は。",
+  "back": "換気回数を数えるタイマーやリーダーの声かけを用いる。慌てると回数が増えやすいため、意識して数えることが大切である。"
+ },
+ {
+  "id": 228,
+  "domain": "airway_management_and_ventilation",
+  "front": "換気量が多すぎると起こりやすい合併症は。",
+  "back": "胃への送気による胃膨満が起こり、嘔吐や誤嚥、横隔膜の挙上による換気の悪化を招く。"
+ },
+ {
+  "id": 229,
+  "domain": "airway_management_and_ventilation",
+  "front": "心停止中の酸素投与の基本的な考え方は。",
+  "back": "最大限の酸素濃度（できるだけ高濃度）を投与する。心停止中は低酸素状態であり、100%に近い酸素を使う。"
+ },
+ {
+  "id": 230,
+  "domain": "airway_management_and_ventilation",
+  "front": "ROSC後の酸素投与はどのように考えるか。",
+  "back": "過剰な酸素投与（高酸素血症）を避け、SpO2を測定しながら調整する。高酸素は臓器障害を悪化させるおそれがある。"
+ },
+ {
+  "id": 231,
+  "domain": "airway_management_and_ventilation",
+  "front": "ROSC後に目標とするSpO2の目安は。",
+  "back": "94から98%を目安に酸素投与量を調整する。低酸素も高酸素も避けることが目標である。"
+ },
+ {
+  "id": 232,
+  "domain": "airway_management_and_ventilation",
+  "front": "ROSC後に酸素濃度を調整するためには何が必要か。",
+  "back": "SpO2モニターで酸素飽和度を測定すること。可能になれば速やかに装着し、その値をみて酸素投与量を調整する。"
+ },
+ {
+  "id": 233,
+  "domain": "airway_management_and_ventilation",
+  "front": "心停止中にSpO2の値を頼りにしにくい理由は。",
+  "back": "循環が止まり末梢の血流が乏しいため、パルスオキシメータが正確に測定できない。心停止中は最大限の酸素を投与する。"
+ },
+ {
+  "id": 234,
+  "domain": "airway_management_and_ventilation",
+  "front": "気道が確保できて換気できているかを判断する所見は。",
+  "back": "換気時に胸が上がる、胸の上がりに左右差がない、抵抗なくバッグが押せる。呼気CO2の波形が出ることも根拠になる。"
+ },
+ {
+  "id": 235,
+  "domain": "airway_management_and_ventilation",
+  "front": "バッグを押しても胸が上がらないとき最初に何を見直すか。",
+  "back": "頭の位置とあご先の挙上、マスクの密着を見直す。異物や分泌物があれば吸引し、必要ならエアウェイを使う。"
+ },
+ {
+  "id": 236,
+  "domain": "airway_management_and_ventilation",
+  "front": "気管チューブが外れた疑いのとき、どう対応するか。",
+  "back": "呼気CO2波形の消失や胸の上がりの変化に気づいたら位置を確認し、確認できなければ抜去してバッグバルブマスクに戻す。"
+ },
+ {
+  "id": 237,
+  "domain": "airway_management_and_ventilation",
+  "front": "気管挿管や声門上デバイスが成功しないときの対応は。",
+  "back": "試みを繰り返して圧迫を中断せず、バッグバルブマスクによる換気に戻す。胸骨圧迫を優先して継続することが重要である。"
+ },
+ {
+  "id": 238,
+  "domain": "airway_management_and_ventilation",
+  "front": "気道確保の試行が長引くときのリスクは。",
+  "back": "胸骨圧迫が中断し冠灌流が途絶える。そのため試行は短時間にとどめ、不成功なら速やかに別の方法に切り替える。"
+ },
+ {
+  "id": 239,
+  "domain": "airway_management_and_ventilation",
+  "front": "傷病者の口腔内に吐物や分泌物があるときの対応は。",
+  "back": "吸引器で口腔内を吸引する。吸引は短時間で行い、長引くと換気や胸骨圧迫が止まってしまうため注意する。"
+ },
+ {
+  "id": 240,
+  "domain": "airway_management_and_ventilation",
+  "front": "異物による気道閉塞が疑われ、意識がないときはどうするか。",
+  "back": "直ちに胸骨圧迫から心肺蘇生を開始する。口の中に異物が見えれば取り除くが、見えない異物の盲目的な掻き出しは避ける。"
+ },
+ {
+  "id": 241,
+  "domain": "airway_management_and_ventilation",
+  "front": "吸引を長く続けてはいけない理由は。",
+  "back": "吸引中は換気ができず低酸素を招くため。吸引は短時間にとどめ、終わったらすぐ換気に戻す。"
+ },
+ {
+  "id": 242,
+  "domain": "airway_management_and_ventilation",
+  "front": "誤嚥を予防するために心肺蘇生中にできることは。",
+  "back": "過大な換気を避けて胃膨満を防ぎ、必要に応じて吸引する。気管挿管でカフを膨らませると誤嚥予防に有効である。"
+ },
+ {
+  "id": 243,
+  "domain": "airway_management_and_ventilation",
+  "front": "呼吸時にいびき様の音がするとき疑う原因は。",
+  "back": "舌根沈下による上気道の部分閉塞。ごぼごぼという音なら分泌物や吐物の貯留を疑い、吸引する。"
+ },
+ {
+  "id": 244,
+  "domain": "airway_management_and_ventilation",
+  "front": "呼気CO2モニタリングでの挿管確認の判断基準は。",
+  "back": "呼気CO2の波形が持続して出ること。換気のたびに波形が出れば気管内、出なければ食道挿管やチューブの異常を疑う。"
+ },
+ {
+  "id": 245,
+  "domain": "airway_management_and_ventilation",
+  "front": "心肺蘇生中の呼気CO2が低い値のままのとき何を疑うか。",
+  "back": "胸骨圧迫の質が低い可能性。深さ、テンポ、戻し、交代の状況を見直す。目安として10 mmHg未満が続くときは特に見直す。"
+ },
+ {
+  "id": 246,
+  "domain": "airway_management_and_ventilation",
+  "front": "呼気CO2が急に上昇したとき、何を示唆するか。",
+  "back": "心拍再開（ROSC）の可能性。急に35から40 mmHg以上に上がることがあるため、波形や脈拍の確認に進む。"
+ },
+ {
+  "id": 247,
+  "domain": "airway_management_and_ventilation",
+  "front": "呼気CO2が低いことだけで蘇生を中止してよいか。",
+  "back": "よくない。呼気CO2の値は単独で蘇生中止の根拠にしない。他の所見と併せて判断し、質の高い心肺蘇生を続ける。"
+ },
+ {
+  "id": 248,
+  "domain": "airway_management_and_ventilation",
+  "front": "呼気CO2の波形表示は心肺蘇生中にどう役立つか。",
+  "back": "換気のたびに連続して確認でき、挿管の確認、胸骨圧迫の質、ROSCの兆候を同時に把握できる。"
+ },
+ {
+  "id": 249,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "心停止で用いるアドレナリンの1回投与量は。",
+  "back": "1mgを静脈内または骨髄内に投与する。胸骨圧迫と換気を続けながら行い、投与量を増やしても転帰は改善しない。"
+ },
+ {
+  "id": 250,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "アドレナリンを繰り返し投与する間隔は。",
+  "back": "3から5分ごとに1mgを繰り返す。およそ2分ごとのリズムチェック2回に1回の割合が目安となる。"
+ },
+ {
+  "id": 251,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "PEAや心静止ではアドレナリンをいつ投与するか。",
+  "back": "できるだけ早期に投与する。非ショック適応リズムでは早い投与ほど心拍再開（ROSC）の可能性が高まるため。"
+ },
+ {
+  "id": 252,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "VF/pVTでは電気ショックとアドレナリンのどちらを優先するか。",
+  "back": "電気ショックを優先する。VF/pVTの根本治療は除細動であり、ショックで戻らない場合に薬剤を併用する。"
+ },
+ {
+  "id": 253,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "心停止時にアドレナリンが用いられる主な理由は。",
+  "back": "α作用による末梢血管収縮で冠灌流圧を高め、心拍再開（ROSC）の可能性を上げるため。神経学的転帰の改善は限定的。"
+ },
+ {
+  "id": 254,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "ショック抵抗性のVF/pVTに用いる抗不整脈薬を3つ挙げよ。",
+  "back": "アミオダロン、ニフェカラント、リドカイン。電気ショックと胸骨圧迫を続けても難治の場合に考慮する。"
+ },
+ {
+  "id": 255,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "アミオダロンの心停止時の初回投与量は。",
+  "back": "300mgを静脈内または骨髄内に投与する。効果不十分で再発する場合は150mgを追加することがある。"
+ },
+ {
+  "id": 256,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "ニフェカラントの心停止時の投与量の目安は。",
+  "back": "0.3mg/kgを静脈内投与する。日本で使われるIII群の抗不整脈薬で、QT延長に伴う不整脈に注意する。"
+ },
+ {
+  "id": 257,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "リドカインの心停止時の投与量の目安は。",
+  "back": "1から1.5mg/kgを静脈内投与する。アミオダロンやニフェカラントが使えない場合の選択肢となる。"
+ },
+ {
+  "id": 258,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "難治性VF/pVTで抗不整脈薬を使う前提となる処置は。",
+  "back": "質の高い胸骨圧迫と電気ショックを確実に行うこと。薬剤は除細動の代わりではなく、あくまで補助である。"
+ },
+ {
+  "id": 259,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "心停止時の薬剤投与路で最初に選ぶのはどれか。",
+  "back": "静脈路が第一選択。確保できない、または困難な場合に骨髄路を選ぶ。血管確保で胸骨圧迫を中断しない。"
+ },
+ {
+  "id": 260,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "骨髄路はどのような場合に用いるか。",
+  "back": "静脈路確保が困難または時間がかかる場合の代替路。静脈内と同じ薬剤と量を投与できる。"
+ },
+ {
+  "id": 261,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "気管チューブからの薬剤投与が推奨されない理由は。",
+  "back": "吸収が不確実で血中濃度が安定せず効果が予測できないため。静脈路か骨髄路を優先して確保する。"
+ },
+ {
+  "id": 262,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "末梢静脈から薬剤を投与した後に行うことは。",
+  "back": "薬剤を中枢へ届けるため、生理食塩液などで急速にフラッシュする。上肢挙上を併用することもある。"
+ },
+ {
+  "id": 263,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "血管確保が胸骨圧迫に与えてよい影響は。",
+  "back": "胸骨圧迫の中断は最小限にする。確保は圧迫を続けながら行い、人手が足りなければ圧迫を優先する。"
+ },
+ {
+  "id": 264,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "薬剤を投与する適切なタイミングは。",
+  "back": "リズムチェックで波形を確認した直後を目安に、胸骨圧迫を止めずに投与する。中断を長引かせないため。"
+ },
+ {
+  "id": 265,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "薬剤投与のために胸骨圧迫を止めてはならない理由は。",
+  "back": "圧迫の中断により冠灌流圧が速やかに低下し、再開後に回復するまで時間がかかるため。"
+ },
+ {
+  "id": 266,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "投与後フラッシュを行う目的は何か。",
+  "back": "末梢静脈内に残った薬剤を中心循環へ送り込み、心停止下でも作用部位へ届けること。"
+ },
+ {
+  "id": 267,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "ショック後にアドレナリンを投与する流れで正しいものは。",
+  "back": "電気ショックの後、直ちに胸骨圧迫を再開し、圧迫を続けたまま次のリズムチェックまでに薬剤を投与する。"
+ },
+ {
+  "id": 268,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "リズムチェック中に薬剤準備の担当者がすべきことは。",
+  "back": "次の投与薬を事前に準備して声に出して確認し、リズムチェック後すぐに渡せる状態にしておく。"
+ },
+ {
+  "id": 269,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "バソプレシンは心停止で日常的に使用するか。",
+  "back": "日常的な使用は推奨されない。アドレナリンに加えても転帰の上乗せ効果が明確でないため。"
+ },
+ {
+  "id": 270,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "ステロイドを心停止で日常的に使うか。",
+  "back": "院外心停止の標準治療としては推奨されない。有効性を示す十分な根拠がないため。"
+ },
+ {
+  "id": 271,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "重炭酸ナトリウムを心停止で日常的に使うか。",
+  "back": "日常的な投与は推奨されない。効果が不明確で、高ナトリウムや二酸化炭素の増加などの害がありうる。"
+ },
+ {
+  "id": 272,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "カルシウムを心停止で日常的に使うか。",
+  "back": "日常的な投与は推奨されない。高カリウム血症など特定の原因が疑われる場合に限って考慮する。"
+ },
+ {
+  "id": 273,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "マグネシウムが適応となる心停止のリズムは。",
+  "back": "torsade de pointesを伴うQT延長が疑われるVF/pVTに考慮する。通常のVFには日常的に使わない。"
+ },
+ {
+  "id": 274,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "症候性徐脈で第一に考慮する薬剤は。",
+  "back": "アトロピン。迷走神経の緊張を抑えて心拍数を上げる。無効なら経皮ペーシングやアドレナリン持続を検討する。"
+ },
+ {
+  "id": 275,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "アトロピンが効きにくい徐脈の型は。",
+  "back": "ヒス束より下位の房室ブロック（モビッツII型や完全房室ブロックなど）。ペーシングの準備を進める。"
+ },
+ {
+  "id": 276,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "アトロピンの副作用として注意することは。",
+  "back": "頻脈、口渇、散瞳など。急性冠症候群では心筋酸素需要を高めうるため、頻脈に注意して投与する。"
+ },
+ {
+  "id": 277,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "徐脈で薬剤が無効なとき、次に考える処置は。",
+  "back": "経皮ペーシングを行い、必要に応じアドレナリンやドパミンの持続投与を併用する。原因の検索も続ける。"
+ },
+ {
+  "id": 278,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "ドパミンやアドレナリンの持続投与をどんな状態で使うか。",
+  "back": "徐脈や低血圧でショック状態にあり、他の治療で改善しない場合。血圧と心拍数を見ながら量を調整する。"
+ },
+ {
+  "id": 279,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "規則的な幅の狭い頻拍に使うことがある薬剤は。",
+  "back": "アデノシン。房室結節の伝導を一時的に遮断し、発作性上室性頻拍を停止させる。"
+ },
+ {
+  "id": 280,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "アデノシンの投与方法の特徴は。",
+  "back": "半減期が非常に短いため、ごく速やかに静脈内へ急速投与し、すぐにフラッシュする。一過性の心停止に備える。"
+ },
+ {
+  "id": 281,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "アデノシンを避けるべき主な状況は。",
+  "back": "気管支喘息の患者や、WPW症候群に伴う不規則で幅広いQRSの心房細動。悪化の危険がある。"
+ },
+ {
+  "id": 282,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "カルシウム拮抗薬（ベラパミルなど）を使ってはいけない頻拍は。",
+  "back": "原因不明の幅広いQRS頻拍。VTだった場合に血行動態が悪化しうるため、鑑別がつくまで用いない。"
+ },
+ {
+  "id": 283,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "β遮断薬を頻拍に使うときの注意点は。",
+  "back": "心不全や低血圧、高度徐脈、気管支喘息では禁忌または慎重投与。心機能の抑制に注意する。"
+ },
+ {
+  "id": 284,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "ニトログリセリンを急性冠症候群で使う目的は。",
+  "back": "冠動脈の拡張と前負荷の軽減により、胸痛を和らげ心筋酸素需要を下げること。"
+ },
+ {
+  "id": 285,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "ニトログリセリンを使ってはいけない状況を挙げよ。",
+  "back": "収縮期血圧が低い場合、右室梗塞が疑われる場合、PDE5阻害薬の最近の服用がある場合。"
+ },
+ {
+  "id": 286,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "ニトログリセリンが右室梗塞で危険な理由は。",
+  "back": "右室梗塞は前負荷に依存して心拍出量を保つため、前負荷が下がると著しい低血圧を起こすため。"
+ },
+ {
+  "id": 287,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "急性冠症候群が疑われる患者にアスピリンを投与する量は。",
+  "back": "160から200mgを噛み砕いて服用させる。血小板凝集を抑え、血栓の進展を防ぐ。"
+ },
+ {
+  "id": 288,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "アスピリンを投与してはいけない主な状況は。",
+  "back": "アスピリンアレルギーがある場合や、活動性の出血、消化管出血が疑われる場合。禁忌を確認してから投与する。"
+ },
+ {
+  "id": 289,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "薬剤の投与量や希釈を誤らないための方法は。",
+  "back": "投与者が薬剤名と量を声に出して読み上げ、チームがそれを復唱して確認する。クローズドループを守る。"
+ },
+ {
+  "id": 290,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "指示を受けた薬剤を投与する際の復唱の意義は。",
+  "back": "聞き間違いや取り違えを防ぐため。指示者に復唱して確認を得てから投与し、投与後にも報告する。"
+ },
+ {
+  "id": 291,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "ICLSで薬剤投与の記録を担当する役割は。",
+  "back": "記録係。薬剤名、量、時刻、ショック回数、リズムを時系列に残し、次の投与時刻の目安も伝える。"
+ },
+ {
+  "id": 292,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "記録係が次のアドレナリン投与時刻を伝える理由は。",
+  "back": "3から5分ごとの繰り返し投与を確実にするため。時間経過を把握して投与忘れや過剰投与を防ぐ。"
+ },
+ {
+  "id": 293,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "薬剤を指示するときにリーダーが明確に伝えることは。",
+  "back": "薬剤名、量、投与路、投与するタイミングを具体的に伝える。あいまいな指示は取り違えの原因になる。"
+ },
+ {
+  "id": 294,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "末梢静脈から投与する際のコツは何か。",
+  "back": "太い上肢の静脈を選び、薬剤投与後に急速にフラッシュする。圧迫を妨げない部位を選ぶことも大切。"
+ },
+ {
+  "id": 295,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "中心静脈と末梢静脈の投与を比べたときの違いは。",
+  "back": "中心静脈の方が薬剤は速く中心循環に届くが、確保に時間がかかり圧迫を中断しやすい。心停止では末梢でよい。"
+ },
+ {
+  "id": 296,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "心停止で中心静脈路の確保を優先しない理由は。",
+  "back": "手技に時間を要し、胸骨圧迫の中断や合併症の危険があるため。末梢静脈路か骨髄路で十分である。"
+ },
+ {
+  "id": 297,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "薬剤の副作用を踏まえて投与前に確認することは。",
+  "back": "アレルギー歴、禁忌となる併存疾患、服用中の薬剤。禁忌を見落とさないようチームで声をかけ合う。"
+ },
+ {
+  "id": 298,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "心停止の可逆的原因を覚える語呂「4H4T」のHに当たる4項目は何か。",
+  "back": "循環血液量減少（Hypovolemia）、低酸素（Hypoxia）、カリウム異常・代謝異常（高・低カリウム血症、アシドーシスなど）、低体温（Hypothermia）の4つである。見落としを防ぐ枠組みとして使う。"
+ },
+ {
+  "id": 299,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "4H4TのTに当たる4項目は何か。",
+  "back": "緊張性気胸、心タンポナーデ、血栓症（肺血栓塞栓症と冠動脈血栓症）、毒物（中毒）である。胸骨圧迫だけでは戻らない原因として考える。"
+ },
+ {
+  "id": 300,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "なぜ心停止中に可逆的原因を常に考える必要があるのか。",
+  "back": "原因を取り除かなければ質の高い胸骨圧迫や除細動だけではROSCに至らないことが多いからである。特にPEAと心静止で重要になる。"
+ },
+ {
+  "id": 301,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "PEAや心静止のとき、原因検索が特に重要とされる理由は。",
+  "back": "電気ショックの適応がなく、原因そのものの治療が蘇生の鍵になるからである。圧迫を続けながら原因を絞り込む。"
+ },
+ {
+  "id": 302,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "原因検索は蘇生のどのタイミングで進めるのが望ましいか。",
+  "back": "胸骨圧迫や気道確保などの基本を止めずに、最初から並行して考える。リーダーが役割を決め、情報収集を同時に進める。"
+ },
+ {
+  "id": 303,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "循環血液量減少による心停止を疑う状況と最優先の処置は。",
+  "back": "大量出血や重度脱水などが背景にあるときで、急速輸液や輸血と出血源の制御が必要になる。圧迫だけでは効果が乏しい。"
+ },
+ {
+  "id": 304,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "低酸素が原因の心停止で、まず確認すべき点は何か。",
+  "back": "気道の開通と換気が確実にできているかである。酸素投与、確実な換気、必要なら高度な気道確保で低酸素を是正する。"
+ },
+ {
+  "id": 305,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "高カリウム血症による心停止が疑われる背景として典型的なのは。",
+  "back": "透析患者や腎不全、横紋筋融解、挫滅症候群などである。この場合は早期にカルシウム投与などの対応を考える。"
+ },
+ {
+  "id": 306,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "高カリウム血症が疑われる心停止で、心筋を保護する目的で用いる薬は。",
+  "back": "カルシウム製剤である。心筋細胞膜を安定化させて不整脈を抑える。カリウムそのものは下げないため、他の治療も併用する。"
+ },
+ {
+  "id": 307,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "低カリウム血症が心停止の原因となりうる理由と背景は。",
+  "back": "重い低カリウム血症は致死的不整脈を起こす。利尿薬の使用、嘔吐、下痢などが背景にあり、電解質補正を考える。"
+ },
+ {
+  "id": 308,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "低体温による心停止で、蘇生を続ける際の基本的な考え方は。",
+  "back": "体温が低いままでは蘇生に反応しにくいため、復温を並行して進める。低体温の心停止では蘇生を安易にあきらめない。"
+ },
+ {
+  "id": 309,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "偶発性低体温症で心停止となった患者に対する基本姿勢は。",
+  "back": "「温まるまで死亡とは判断しない」という考え方を重視する。心肺蘇生を続けながら復温できる施設への搬送を考える。"
+ },
+ {
+  "id": 310,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "アシドーシスが心停止の原因や悪化因子となる仕組みは。",
+  "back": "心筋の収縮力や血管の反応が低下し、不整脈も起こしやすくなる。原因疾患の治療と十分な換気で改善を図る。"
+ },
+ {
+  "id": 311,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "緊張性気胸の心停止で、胸腔内に何が起きているか。",
+  "back": "胸腔内に空気が溜まり、縦隔が圧迫され静脈還流が妨げられる。結果として心拍出量が低下して心停止に至る。"
+ },
+ {
+  "id": 312,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "緊張性気胸を疑う状況と所見を挙げよ。",
+  "back": "外傷、陽圧換気、中心静脈穿刺後などで、呼吸音の左右差や皮下気腫、頸静脈怒張がみられる。換気抵抗の上昇も手がかりである。"
+ },
+ {
+  "id": 313,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "緊張性気胸が原因の心停止に対する緊急処置は。",
+  "back": "胸腔穿刺による脱気や胸腔ドレナージで胸腔内圧を下げる。診断がつけば遅らせずに行う。"
+ },
+ {
+  "id": 314,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "心タンポナーデによる心停止が起きる仕組みは。",
+  "back": "心嚢内に液体が溜まり心臓が外から圧迫され、拡張できず心拍出量が低下する。外傷や大動脈解離、悪性腫瘍などが背景となる。"
+ },
+ {
+  "id": 315,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "心タンポナーデの緊急処置は何か。",
+  "back": "心嚢穿刺または心嚢ドレナージで心嚢内の液体を除去する。エコーで心嚢液を確認し、可能なら画像下で行う。"
+ },
+ {
+  "id": 316,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "肺血栓塞栓症が原因の心停止を疑う背景は。",
+  "back": "長期臥床、手術後、深部静脈血栓症、下肢の腫脹などである。突然の呼吸困難や右心負荷の所見が手がかりになる。"
+ },
+ {
+  "id": 317,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "肺血栓塞栓症が強く疑われる心停止で考慮される治療は。",
+  "back": "血栓溶解療法である。出血リスクを理解したうえで、診断が強く疑われる場合に検討し、必要なら体外循環も考える。"
+ },
+ {
+  "id": 318,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "冠動脈血栓症（急性心筋梗塞）が原因の心停止で、ROSC後に重要となる治療は。",
+  "back": "冠動脈造影と、必要に応じた経皮的冠動脈インターベンションである。早期に循環器チームと連携して判断する。"
+ },
+ {
+  "id": 319,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "薬物中毒や毒物による心停止で、情報収集として重要なことは。",
+  "back": "原因となった物質、量、時間を、家族や救急隊、周囲の状況から聞き取る。薬の空容器や処方歴も手がかりになる。"
+ },
+ {
+  "id": 320,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "毒物が原因の心停止で、特異的な解毒薬や拮抗薬を考える意義は。",
+  "back": "原因物質が特定できれば拮抗薬や特異的治療で回復の可能性がある。中毒情報センターや専門医への相談も有用である。"
+ },
+ {
+  "id": 321,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "心停止中に電解質異常を疑う手がかりとして適切な情報は。",
+  "back": "腎疾患や透析歴、利尿薬使用、嘔吐や下痢などの病歴と、血液ガスでの電解質測定である。心電図変化も参考にする。"
+ },
+ {
+  "id": 322,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "体温異常による心停止のうち、高体温（熱中症）で重要な処置は。",
+  "back": "速やかな冷却である。輸液と並行して体温を下げる。高体温は原因そのものを取り除く対応が蘇生の鍵になる。"
+ },
+ {
+  "id": 323,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "心停止中のポイントオブケア超音波を用いる主な目的は。",
+  "back": "心嚢液、右心系の拡大、心臓の動きの有無など、可逆的原因の手がかりを探すことである。診断を補助する検査である。"
+ },
+ {
+  "id": 324,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "心停止中に超音波検査をするとき、最も気をつけるべき点は。",
+  "back": "胸骨圧迫の中断を最小限にすることである。脈拍チェックや調律確認のための休止中の短い時間に画像を得る。"
+ },
+ {
+  "id": 325,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "エコーで心嚢液貯留と右室虚脱が見つかったときに考える原因は。",
+  "back": "心タンポナーデである。緊急の心嚢穿刺やドレナージを検討する。超音波で穿刺の安全性も高められる。"
+ },
+ {
+  "id": 326,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "エコーで右心系の著明な拡大がみられたとき、疑うべき原因は。",
+  "back": "肺血栓塞栓症などの右心負荷をきたす原因である。病歴と合わせて、血栓溶解療法の適応を検討する。"
+ },
+ {
+  "id": 327,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "周術期に発生した心停止で、まず疑う可逆的原因は何か。",
+  "back": "出血や循環血液量減少、麻酔薬や薬剤の影響、気道や換気の問題、緊張性気胸、アナフィラキシーなどである。術者への情報確認が大切である。"
+ },
+ {
+  "id": 328,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "外傷による心停止で、優先して考える可逆的原因は。",
+  "back": "大量出血、緊張性気胸、心タンポナーデである。止血と補液や輸血、胸腔や心嚢の減圧を急ぐ。"
+ },
+ {
+  "id": 329,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "透析患者の心停止で、まず疑うべき原因は何か。",
+  "back": "高カリウム血症である。透析の有無や最終透析日を確認し、早期にカルシウム投与を含めた対応を考える。"
+ },
+ {
+  "id": 330,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "妊婦の心停止で、蘇生中に重要な配慮は何か。",
+  "back": "子宮を左に用手的に移動して大静脈の圧迫を解除する。さらに原因の検索と、産科や新生児科を含むチームへの早期連絡を行う。"
+ },
+ {
+  "id": 331,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "溺水による心停止では、どの原因を優先して是正するか。",
+  "back": "低酸素である。確実な気道確保と換気を優先し、低体温の合併も考えて復温を並行する。"
+ },
+ {
+  "id": 332,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "アナフィラキシーが原因の心停止で、第一に行う薬剤治療は。",
+  "back": "アドレナリンの投与である。原因物質を中止し、急速輸液と気道管理を並行して行う。"
+ },
+ {
+  "id": 333,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "リーダーが可逆的原因の検索を担う際に、チームでどう動くべきか。",
+  "back": "質の高い胸骨圧迫を維持する役割を確保したうえで、病歴を聞く人や超音波を担う人などに役割を分担し、結果を共有する。"
+ },
+ {
+  "id": 334,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "ROSC後に原因検索や原因治療を続ける意義は何か。",
+  "back": "再び心停止を起こさないためである。ROSC後も原因を特定して治療し、集中治療室で全身管理につなげる。"
+ },
+ {
+  "id": 335,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "ICLSの枠組みで、可逆的原因の処置が決まった後に行うことは。",
+  "back": "処置の効果を確認しながら、質の高い心肺蘇生を続ける。調律チェックごとに状況と原因を再評価し、チームで共有する。"
+ },
+ {
+  "id": 336,
+  "domain": "team_resuscitation_and_communication",
+  "front": "リーダーが胸骨圧迫などの手技を自分で行いすぎない方がよいのはなぜですか。",
+  "back": "手技に集中すると全体の状況把握と指示が遅れるためです。リーダーは一歩引いて全体を見渡し、判断と指示に専念するのが原則です。"
+ },
+ {
+  "id": 337,
+  "domain": "team_resuscitation_and_communication",
+  "front": "ICLSでリーダーが立つ位置として適切なのはどこですか。",
+  "back": "患者、モニター、メンバー全員が見渡せる位置です。手技に加わらず少し離れて立つことで、状況把握と指示に集中できます。"
+ },
+ {
+  "id": 338,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生中のリーダーの主な仕事を三つ挙げてください。",
+  "back": "状況の把握、判断、指示です。波形や経過を見て次の行動を決め、各メンバーに明確に指示を出し、全体の進行を管理します。"
+ },
+ {
+  "id": 339,
+  "domain": "team_resuscitation_and_communication",
+  "front": "リーダーが手技を担当せざるを得ない人手不足のとき、まず何をしますか。",
+  "back": "応援を要請し、到着までは優先順位をつけて分担します。可能な限り、質の高い胸骨圧迫と早期の除細動を最優先にします。"
+ },
+ {
+  "id": 340,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生チームのリーダーは、いつ決めるのが望ましいですか。",
+  "back": "蘇生開始の直後、できるだけ早く決めて全員に知らせます。リーダーが曖昧だと指示が混乱し、胸骨圧迫の中断が増えるためです。"
+ },
+ {
+  "id": 341,
+  "domain": "team_resuscitation_and_communication",
+  "front": "胸骨圧迫の担当者は、何分ごとを目安に交代しますか。",
+  "back": "約2分ごと、つまりリズムチェックのタイミングで交代します。疲労で圧迫の質が低下するため、中断を最小限にして素早く入れ替わります。"
+ },
+ {
+  "id": 342,
+  "domain": "team_resuscitation_and_communication",
+  "front": "胸骨圧迫の交代で中断を短くするには、どうしますか。",
+  "back": "次の担当者が準備して待機し、リズムチェックの間に素早く入れ替わります。交代のために圧迫を止める時間を最小限に抑えられます。"
+ },
+ {
+  "id": 343,
+  "domain": "team_resuscitation_and_communication",
+  "front": "除細動器担当の役割は何ですか。",
+  "back": "除細動器の装着、波形の確認、充電、そしてリーダーの指示によるショックの実施です。ショック前の安全確認の声かけも担当します。"
+ },
+ {
+  "id": 344,
+  "domain": "team_resuscitation_and_communication",
+  "front": "気道管理担当が最初に行うことは何ですか。",
+  "back": "気道確保とバッグバルブマスクによる換気です。胸骨圧迫30回に対して2回の換気を、圧迫の中断を短くして行います。"
+ },
+ {
+  "id": 345,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生チームに記録係が必要な理由は何ですか。",
+  "back": "ショックの回数、薬剤の投与時刻と量などを正確に残し、リーダーの判断と、後の振り返りや引き継ぎに役立てるためです。"
+ },
+ {
+  "id": 346,
+  "domain": "team_resuscitation_and_communication",
+  "front": "クローズドループコミュニケーションとは何ですか。",
+  "back": "指示を受けた人が復唱し、実施後に完了を報告し、指示者が確認する往復の伝達です。聞き違いや実施漏れを防ぎます。"
+ },
+ {
+  "id": 347,
+  "domain": "team_resuscitation_and_communication",
+  "front": "リーダーが薬剤の静注を指示したとき、受けた人がまず行うことは何ですか。",
+  "back": "指示を復唱して聞き取りを確認します。薬剤名と量の聞き違いを防ぎ、投与後には実施したことを報告します。"
+ },
+ {
+  "id": 348,
+  "domain": "team_resuscitation_and_communication",
+  "front": "指示された処置を終えたら、メンバーは何をすべきですか。",
+  "back": "実施の完了と結果をリーダーに報告します。報告がないとリーダーは実施の有無が分からず、重複投与や実施漏れの原因になります。"
+ },
+ {
+  "id": 349,
+  "domain": "team_resuscitation_and_communication",
+  "front": "クローズドループで、指示者が最後に行うことは何ですか。",
+  "back": "報告を受けて内容を確認し、受け取ったことを返します。これでループが閉じ、指示が正しく完了したと全員が把握できます。"
+ },
+ {
+  "id": 350,
+  "domain": "team_resuscitation_and_communication",
+  "front": "口頭指示で薬剤の量を取り違えないための工夫は何ですか。",
+  "back": "薬剤名、量、投与経路を明確に述べ、受けた人が復唱して確認します。聞き取りにくいときは聞き返すことをためらいません。"
+ },
+ {
+  "id": 351,
+  "domain": "team_resuscitation_and_communication",
+  "front": "指示を特定の人に確実に伝えるには、どうしますか。",
+  "back": "名前を呼ぶか、視線や手で相手を指定します。全体に向けた曖昧な指示では誰も動かず、実施漏れが起こりやすくなります。"
+ },
+ {
+  "id": 352,
+  "domain": "team_resuscitation_and_communication",
+  "front": "「誰か点滴をお願いします」という指示の問題点は何ですか。",
+  "back": "担当者が特定されていないため、誰も動かない、または複数人が同時に動く恐れがあります。名前を呼んで指示するのが望ましいです。"
+ },
+ {
+  "id": 353,
+  "domain": "team_resuscitation_and_communication",
+  "front": "メンバーがリーダーの指示に疑問を持ったときの対応は何ですか。",
+  "back": "遠慮せず、冷静かつ簡潔に疑問や気づきを伝えます。リーダーが見落としている点に気づくことが、安全な蘇生につながります。"
+ },
+ {
+  "id": 354,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生中の声の出し方として望ましいのはどのようなものですか。",
+  "back": "落ち着いた、はっきりした声で簡潔に伝えます。怒鳴ったり感情的になったりすると、チームが萎縮して意見が出にくくなります。"
+ },
+ {
+  "id": 355,
+  "domain": "team_resuscitation_and_communication",
+  "front": "相互尊重がチーム蘇生で重要なのはなぜですか。",
+  "back": "職種や経験に関係なく意見を言い合える雰囲気が、見落としやエラーの早期発見につながるためです。"
+ },
+ {
+  "id": 356,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生中に新たに加わった医療者へ、最初に伝える情報は何ですか。",
+  "back": "発見の経緯、これまでの経過、既往歴、ショック回数、投与済みの薬剤とその時刻などです。要点を簡潔にまとめて伝えます。"
+ },
+ {
+  "id": 357,
+  "domain": "team_resuscitation_and_communication",
+  "front": "SBARとは何の略で、何のために使いますか。",
+  "back": "状況、背景、評価、提案の頭文字です。情報を整理して簡潔に伝え、応援要請や引き継ぎで要点の抜けを防ぐために使います。"
+ },
+ {
+  "id": 358,
+  "domain": "team_resuscitation_and_communication",
+  "front": "薬剤の投与時刻を全員で共有する目的は何ですか。",
+  "back": "次回の投与時期を正しく判断し、過量や投与漏れを防ぐためです。記録係が時刻を声に出して知らせるとよいです。"
+ },
+ {
+  "id": 359,
+  "domain": "team_resuscitation_and_communication",
+  "front": "リーダーが状況を声に出してまとめる利点は何ですか。",
+  "back": "チーム全員が同じ認識を持て、見落としていた点にメンバーが気づく機会が生まれます。今後の方針の共有にもなります。"
+ },
+ {
+  "id": 360,
+  "domain": "team_resuscitation_and_communication",
+  "front": "心停止の原因（4Hと4T）の検討をチームで共有する意義は何ですか。",
+  "back": "可逆的な原因を全員で探す意識を持て、メンバーからの気づきも得られます。原因の治療が蘇生の成功に直結します。"
+ },
+ {
+  "id": 361,
+  "domain": "team_resuscitation_and_communication",
+  "front": "リーダーの判断が誤っていると気づいたメンバーはどうすべきですか。",
+  "back": "立場に関係なく、はっきりと具体的に懸念を伝えます。患者の安全が最優先であり、黙っていることがエラーの見逃しにつながります。"
+ },
+ {
+  "id": 362,
+  "domain": "team_resuscitation_and_communication",
+  "front": "フォロワーシップとは何ですか。",
+  "back": "リーダーを支え、指示を正確に実施しつつ、気づきを積極的に伝えるメンバーとしての行動です。チームの成功は全員の役割にかかっています。"
+ },
+ {
+  "id": 363,
+  "domain": "team_resuscitation_and_communication",
+  "front": "一つのことに注意が集中して全体が見えなくなる状態を何といいますか。",
+  "back": "固着エラーと呼ばれます。周囲の指摘で視野を広げることが、誤りの防止になります。"
+ },
+ {
+  "id": 364,
+  "domain": "team_resuscitation_and_communication",
+  "front": "エラーを防ぐために、リーダーが定期的に行うとよいことは何ですか。",
+  "back": "現在の状況と方針を振り返り、見落としがないかチームに問いかけます。全員の意見を求めることで、誤りに早く気づけます。"
+ },
+ {
+  "id": 365,
+  "domain": "team_resuscitation_and_communication",
+  "front": "懸念を伝えても聞き入れられないとき、メンバーはどうしますか。",
+  "back": "具体的な根拠とともに繰り返し伝え、必要なら他の上級者に助けを求めます。患者の安全のため、遠慮して引き下がらないことが大切です。"
+ },
+ {
+  "id": 366,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生を中止する判断は、誰がどのように行いますか。",
+  "back": "責任を持つ医師（リーダー）が、経過や原因、治療への反応などを総合し、チームの意見も聞いたうえで判断します。"
+ },
+ {
+  "id": 367,
+  "domain": "team_resuscitation_and_communication",
+  "front": "DNAR指示がある患者に対して、まず確認することは何ですか。",
+  "back": "指示が本人の意思として有効か、書面や家族、主治医を通じて確認します。確認が取れない間は通常の蘇生を行います。"
+ },
+ {
+  "id": 368,
+  "domain": "team_resuscitation_and_communication",
+  "front": "DNARは何を意味しますか。",
+  "back": "心停止時に心肺蘇生を行わないという指示です。本人の意思に基づくもので、他の治療やケアを控える意味ではありません。"
+ },
+ {
+  "id": 369,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生の経過を家族に説明するとき、心がけることは何ですか。",
+  "back": "分かりやすい言葉で、現状と見通しを誠実に伝えます。専門用語を避け、気持ちに配慮し、質問に答える時間を確保します。"
+ },
+ {
+  "id": 370,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生を中止した後、家族への配慮として適切なのは何ですか。",
+  "back": "静かな場所で死亡の事実と経過を丁寧に伝え、悲嘆に寄り添います。患者と過ごす時間を持てるよう配慮することも大切です。"
+ },
+ {
+  "id": 371,
+  "domain": "team_resuscitation_and_communication",
+  "front": "記録係が記録する主な項目を挙げてください。",
+  "back": "心停止を認識した時刻、ショックの時刻と回数、薬剤名と投与時刻、リズムチェックの時刻、ROSCの時刻などです。"
+ },
+ {
+  "id": 372,
+  "domain": "team_resuscitation_and_communication",
+  "front": "記録係がリズムチェックの時間を知らせる意義は何ですか。",
+  "back": "約2分ごとの評価と胸骨圧迫の交代を計画的に行えるためです。時間の管理がリーダーの判断と中断の短縮を支えます。"
+ },
+ {
+  "id": 373,
+  "domain": "team_resuscitation_and_communication",
+  "front": "コードチームを招集するのは、どのようなときですか。",
+  "back": "心停止を認識したら、できるだけ早く応援と除細動器を要請します。早い段階で人手を確保することが蘇生の質を高めます。"
+ },
+ {
+  "id": 374,
+  "domain": "team_resuscitation_and_communication",
+  "front": "コードチームが到着したときの引き継ぎで大切なことは何ですか。",
+  "back": "最初のリーダーが要点を簡潔に伝え、圧迫を止めずに役割を交代します。引き継ぎで胸骨圧迫の中断を長引かせないことが重要です。"
+ },
+ {
+  "id": 375,
+  "domain": "team_resuscitation_and_communication",
+  "front": "引き継ぎのとき、胸骨圧迫の中断について重視すべきことは何ですか。",
+  "back": "情報の伝達は圧迫を続けながら行い、中断を最小限にします。中断が長いと冠灌流圧が下がり、蘇生に不利になるためです。"
+ },
+ {
+  "id": 376,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生後のデブリーフィングの目的は何ですか。",
+  "back": "行動を振り返り、良かった点と改善点を共有して次に生かすことです。個人を責めることが目的ではありません。"
+ },
+ {
+  "id": 377,
+  "domain": "team_resuscitation_and_communication",
+  "front": "デブリーフィングで心理的安全性が大切な理由は何ですか。",
+  "back": "失敗や疑問を安心して話せる雰囲気がなければ、本音の振り返りができず、学びと改善につながらないためです。"
+ },
+ {
+  "id": 378,
+  "domain": "team_resuscitation_and_communication",
+  "front": "デブリーフィングの望ましい進め方は何ですか。",
+  "back": "事実を確認し、参加者自身に振り返りを促し、良かった点と改善点を全員で話し合います。非難ではなく学びを重視します。"
+ },
+ {
+  "id": 379,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生後に医療者が受けやすい心理的な負担に、どう対応しますか。",
+  "back": "感情を話せる場を持ち、必要なら相談やサポートを受けます。強いストレスを一人で抱え込まず、自分自身のケアも重要です。"
+ },
+ {
+  "id": 380,
+  "domain": "team_resuscitation_and_communication",
+  "front": "蘇生に関わったチームメンバーへの配慮として適切なのは何ですか。",
+  "back": "経験や役割にかかわらず労をねぎらい、感情を共有する機会を作ります。結果が不良でも、互いを支える姿勢が大切です。"
+ },
+ {
+  "id": 381,
+  "domain": "team_resuscitation_and_communication",
+  "front": "一人で心停止に対応する最初の数分で、最優先にすることは何ですか。",
+  "back": "反応と呼吸を確認し、応援と除細動器を要請して、直ちに胸骨圧迫を開始します。質の高い圧迫と早期除細動が最優先です。"
+ },
+ {
+  "id": 382,
+  "domain": "team_resuscitation_and_communication",
+  "front": "人手が足りないとき、優先すべき処置は何ですか。",
+  "back": "質の高い胸骨圧迫と早期除細動を優先し、薬剤投与や高度な気道確保は人手が整ってから行います。基本の手技を途切れさせないことが大切です。"
+ },
+ {
+  "id": 383,
+  "domain": "team_resuscitation_and_communication",
+  "front": "夜間などで人手が少ないとき、役割はどのように決めますか。",
+  "back": "少ない人員でも、質の高い胸骨圧迫と早期の除細動を最優先に分担し、換気はその次に行います。応援要請を並行して行い、担当を声に出して明確にします。"
+ },
+ {
+  "id": 384,
+  "domain": "team_resuscitation_and_communication",
+  "front": "応援要請を最初の数分に行う理由は何ですか。",
+  "back": "圧迫の交代、薬剤、気道確保など必要な役割には複数人が要るためです。早めに人手を集めることで蘇生の質を維持できます。"
+ },
+ {
+  "id": 385,
+  "domain": "team_resuscitation_and_communication",
+  "front": "限られた人員で複数の処置が同時に必要なとき、リーダーはどう判断しますか。",
+  "back": "生命維持に直結する処置を優先し、同時にできない処置は順番を決めて指示します。優先順位を明確に伝えることが重要です。"
+ },
+ {
+  "id": 386,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "頻拍の患者でまず確認することは何か。",
+  "back": "脈の有無と意識、呼吸などのバイタルサイン。脈が触れなければ心停止として扱い、胸骨圧迫と除細動のアルゴリズムに進む。"
+ },
+ {
+  "id": 387,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脈のある頻拍で「不安定」と判断する所見は何か。",
+  "back": "意識障害、ショック、胸痛、急性心不全などの症状があれば不安定と判断する。この場合は同期下の電気ショックを考える。"
+ },
+ {
+  "id": 388,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "頻拍の心電図で最初に見るべき特徴は何か。",
+  "back": "QRS幅と規則性。幅が狭いか広いか、規則的か不整かで考える原因と対応が変わるため、最初に整理する。"
+ },
+ {
+  "id": 389,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "不安定な頻拍に行う電気ショックの方法は何か。",
+  "back": "R波に同期させた同期電気ショック。非同期だとT波に重なって当たり、心室細動を誘発する恐れがあるため同期させる。"
+ },
+ {
+  "id": 390,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脈のないpVTに行う電気ショックは同期か非同期か。",
+  "back": "同期させず、非同期の除細動を行う。心停止のアルゴリズムに従い、直ちに胸骨圧迫と除細動を進める。"
+ },
+ {
+  "id": 391,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "頻拍の患者で並行して準備しておくものは何か。",
+  "back": "モニター、静脈路確保、12誘導心電図、除細動器。不安定化した場合にすぐ同期電気ショックができるようにする。"
+ },
+ {
+  "id": 392,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "安定な幅の狭い規則的頻拍で最初に試す手技は何か。",
+  "back": "迷走神経刺激法。息こらえや咳などを行う。頸動脈洞マッサージは頸動脈雑音がある場合は避ける。"
+ },
+ {
+  "id": 393,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "迷走神経刺激で止まらない発作性上室頻拍に使う薬は何か。",
+  "back": "ATP（アデノシン）の急速静注。房室結節の伝導を一過性に遮断して、頻拍回路を断ち切り停止させる。"
+ },
+ {
+  "id": 394,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "ATPを急速に静注する理由は何か。",
+  "back": "半減期が数秒と非常に短く、ゆっくり入れると効果が出る前に代謝されるため。投与後は生理食塩液で素早く後押しする。"
+ },
+ {
+  "id": 395,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "幅の広い不整な頻拍で避けたい薬の種類は何か。",
+  "back": "房室結節を抑える薬（ATPやCa拮抗薬など）。WPW症候群に伴う心房細動を悪化させる恐れがあるため、専門医に相談する。"
+ },
+ {
+  "id": 396,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "幅の広い規則的頻拍で原因がはっきりしないときの原則は。",
+  "back": "心室頻拍として扱うのが原則。専門医へ早めに相談し、不安定になった場合に備えて電気ショックの準備をしておく。"
+ },
+ {
+  "id": 397,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "安定な頻拍で専門医への相談が望ましいのはどんなときか。",
+  "back": "幅の広い頻拍や、薬物治療に迷うとき、原因が不明なとき。安定していても急に悪化することがあるため相談を優先する。"
+ },
+ {
+  "id": 398,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "徐脈で治療が必要と判断する基準は何か。",
+  "back": "心拍数が遅いだけでなく、ショック、意識障害、胸痛、心不全などの症状を伴う症候性徐脈のとき。数だけでは判断しない。"
+ },
+ {
+  "id": 399,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "症候性徐脈で最初に使う薬剤は何か。",
+  "back": "アトロピン硫酸塩。迷走神経の作用を抑えて洞結節と房室結節の働きを高め、心拍数を増やす。"
+ },
+ {
+  "id": 400,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "アトロピンが効きにくい徐脈の例を挙げよ。",
+  "back": "高度房室ブロックなど房室結節より下位の障害や心移植後の徐脈。効果が乏しいため、ペーシングなど他の治療を考える。"
+ },
+ {
+  "id": 401,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "アトロピンが無効な徐脈で次に考える手段は何か。",
+  "back": "経皮ペーシング、またはアドレナリンやドパミンの持続静注。専門医に連絡し、準備を並行して進める。"
+ },
+ {
+  "id": 402,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "経皮ペーシングで確認すべき捕捉は何か。",
+  "back": "電気的捕捉（スパイクの後にQRSが続く）と機械的捕捉（脈が触れる）の両方。QRSだけでは血流の保証にならない。"
+ },
+ {
+  "id": 403,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "徐脈の患者の脈が触れなくなったらどうするか。",
+  "back": "心停止として扱い、直ちに胸骨圧迫を開始する。PEAや心静止の可能性を考え、心停止のアルゴリズムに従う。"
+ },
+ {
+  "id": 404,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "ACSが疑われる患者で最初に行う検査は何か。",
+  "back": "12誘導心電図。到着後できるだけ早く記録して判読する。ST上昇の有無で治療方針が分かれるため最優先で行う。"
+ },
+ {
+  "id": 405,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "STEMIを示す心電図所見は何か。",
+  "back": "隣り合う2誘導以上でのST上昇。再灌流療法が必要な状態であり、治療が早いほど心筋を救える。"
+ },
+ {
+  "id": 406,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "ACSが疑われる患者へのアスピリン投与の注意点は何か。",
+  "back": "アレルギーや消化管出血などの禁忌がなければ、噛み砕いて服用させる。吸収が速く、血小板凝集を早く抑えられる。"
+ },
+ {
+  "id": 407,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "STEMIの再灌流療法で第一に選ばれるものは何か。",
+  "back": "経皮的冠動脈インターベンション（PCI）。すぐに行えない場合は適応を確認し、血栓溶解療法を考える。"
+ },
+ {
+  "id": 408,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "ACSが疑われる患者でニトログリセリンを避けるのはいつか。",
+  "back": "低血圧や右室梗塞が疑われるとき、PDE5阻害薬を最近服用したとき。血圧が下がり状態が悪化する恐れがあるため避ける。"
+ },
+ {
+  "id": 409,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "胸痛の患者を搬送するとき重要な点は何か。",
+  "back": "循環器の急性期治療ができる施設を選び、事前に連絡する。心電図を伝送できれば院内での治療開始を早められる。"
+ },
+ {
+  "id": 410,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脳卒中の病院前スケールFASTで確認する項目は何か。",
+  "back": "顔の下垂、腕の脱力、言語障害を確認し、疑えば発症時刻を確認して直ちに通報する。時間の重要性を表す。"
+ },
+ {
+  "id": 411,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脳卒中で確認する「発症時刻」とは何か。",
+  "back": "最後に正常だった時刻（最終健常確認時刻）。起床時に症状に気づいた場合は、就寝前など最後に正常だった時刻とする。"
+ },
+ {
+  "id": 412,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脳卒中が疑われる患者で必ず測定する項目は何か。",
+  "back": "血糖。低血糖は脳卒中に似た症状を起こすため鑑別に必要で、低血糖であれば補正する。"
+ },
+ {
+  "id": 413,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脳卒中の治療で時間が重要な理由は何か。",
+  "back": "虚血性脳卒中では早く血流を再開させるほど回復が期待でき、治療の適応には時間の制限があるため。"
+ },
+ {
+  "id": 414,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脳卒中が疑われる患者の搬送先はどう選ぶか。",
+  "back": "脳卒中の急性期治療ができる施設を選ぶ。到着前に連絡し、CTやMRIの準備を整えてもらい、治療開始を早める。"
+ },
+ {
+  "id": 415,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "意識障害を伴う脳卒中疑いで特に注意することは何か。",
+  "back": "気道と呼吸の確保。嘔吐や舌根沈下で気道閉塞を起こしやすいため、状態に応じて気道確保を行う。"
+ },
+ {
+  "id": 416,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "院内で急変を早く見つける仕組みの例は何か。",
+  "back": "早期警告スコア。呼吸数、脈拍、血圧、意識などの異常を点数化し、基準を超えたら応援や専門チームを呼ぶ。"
+ },
+ {
+  "id": 417,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "迅速対応チーム（RRT）の目的は何か。",
+  "back": "心停止になる前に、急変した患者を早く評価して治療し、心停止を防ぐこと。院内のどこからでも呼べる。"
+ },
+ {
+  "id": 418,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "心停止の前に見られやすい予兆は何か。",
+  "back": "呼吸数の変化、低血圧、意識レベルの低下などの異常。心停止の数時間前からしばしば現れるため、見逃さない。"
+ },
+ {
+  "id": 419,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "院内で患者が急変したとき、まず行うことは何か。",
+  "back": "応援を呼び、ABCDEで評価して必要な処置を始める。反応や呼吸がなければ心停止として対応する。"
+ },
+ {
+  "id": 420,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "急変を医師に報告するときの構造化された方法は何か。",
+  "back": "SBARなどを使い、状況、背景、評価、提案の順に簡潔に伝える。情報の抜けや誤解を防げる。"
+ },
+ {
+  "id": 421,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "頻拍で「不安定」と判断する主な徴候を挙げよ。",
+  "back": "低血圧、意識障害、ショック徴候、急性心不全、虚血性胸痛のいずれかを伴う頻拍は不安定とみなし、直ちに同期電気ショックを考慮する。"
+ },
+ {
+  "id": 422,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脈のある不安定な頻拍の電気ショックを、なぜ同期させるのか。",
+  "back": "R波に同期して通電し、T波付近の受攻期への通電で心室細動を誘発することを避けるため。"
+ },
+ {
+  "id": 423,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "意識のある不安定な頻拍に同期電気ショックを行う前の対応は。",
+  "back": "可能なら鎮静と鎮痛を行う。ただし不安定で時間がない場合は、処置を遅らせず速やかに通電する。"
+ },
+ {
+  "id": 424,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "同期電気ショックで、同期されず非同期で通電される失敗を防ぐには。",
+  "back": "通電のたびに同期モードが解除される機種がある。次のショック前にも同期設定になっているかを必ず確認する。"
+ },
+ {
+  "id": 425,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脈があり不安定な幅広いQRS頻拍で、第一に行う処置は。",
+  "back": "同期電気ショックである。薬物療法で時間を費やさず、不安定なら通電を優先する。"
+ },
+ {
+  "id": 426,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "同期電気ショックで頻拍が戻らないとき、再通電の考え方は。",
+  "back": "エネルギーを増やして再通電を検討し、低酸素や電解質異常などの原因補正と専門家への相談も並行して行う。"
+ },
+ {
+  "id": 427,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "心房細動で心拍数が速くても、すぐに電気ショックしないのはどんな場合か。",
+  "back": "血圧が保たれ意識が清明で不安定徴候がない場合。原因と状態を評価し、レートコントロールなどを検討する。"
+ },
+ {
+  "id": 428,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "血行動態が不安定な心房細動への対応は。",
+  "back": "同期電気ショックを行う。頻拍が不安定の原因と判断した場合は、薬物療法より通電を優先する。"
+ },
+ {
+  "id": 429,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "発症から時間が経った心房細動の除細動で注意する理由は。",
+  "back": "心房内に血栓が残る恐れがあり、除細動後に塞栓症（脳梗塞）を起こす危険があるため、抗凝固の検討が必要。"
+ },
+ {
+  "id": 430,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "心房細動のレートコントロールの目的は何か。",
+  "back": "心拍数を抑えて心室の充満時間を確保し、心拍出量と症状を改善すること。洞調律に戻すことが目的ではない。"
+ },
+ {
+  "id": 431,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "心房粗動の心電図に見られる特徴は。",
+  "back": "鋸歯状の規則的な粗動波（F波）が見られ、2対1伝導では心拍数が約150回/分になりやすい。"
+ },
+ {
+  "id": 432,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "心拍数が速いだけで洞性頻脈に電気ショックしない理由は。",
+  "back": "発熱、疼痛、出血、低酸素などが原因の洞性頻脈は原因治療が本質で、電気ショックの適応ではないため。"
+ },
+ {
+  "id": 433,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "徐脈が不安定と判断する徴候にはどのようなものがあるか。",
+  "back": "低血圧、意識障害、ショック徴候、急性心不全、虚血性胸痛を伴う徐脈。症状が徐脈で説明できるかが重要。"
+ },
+ {
+  "id": 434,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "完全房室ブロックの心電図で、P波とQRS波の関係はどうなるか。",
+  "back": "PとQRSが無関係に出現する。心房と心室が独立して興奮し、補充調律は遅く幅広いことが多い。"
+ },
+ {
+  "id": 435,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "不安定な高度房室ブロックで、薬物に頼りすぎてはいけない理由は。",
+  "back": "アトロピンは効果が乏しいことがある。効果が不十分なら待たずに経皮ペーシングを準備する。"
+ },
+ {
+  "id": 436,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "経皮ペーシングで、有効に捕捉されたか確認する方法は。",
+  "back": "心電図上のペーシング波形だけでなく、実際に脈拍を触知して確認する。電気的に捕捉されても拍出がないことがある。"
+ },
+ {
+  "id": 437,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "経皮ペーシングの適応となる徐脈の例は。",
+  "back": "薬物に反応しない不安定な高度房室ブロックや洞不全など。意識があれば鎮静と鎮痛も考慮する。"
+ },
+ {
+  "id": 438,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "徐脈の原因として確認すべき可逆的な要因を挙げよ。",
+  "back": "低酸素、薬剤（β遮断薬、Ca拮抗薬、ジゴキシン）、高カリウム血症、低体温、心筋虚血など。原因治療が重要。"
+ },
+ {
+  "id": 439,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "胸痛で致死的疾患として必ず考える代表的な疾患は。",
+  "back": "急性冠症候群、大動脈解離、肺塞栓症、緊張性気胸など。見逃すと急変し心停止に至りうる。"
+ },
+ {
+  "id": 440,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "急性心筋梗塞で心停止の原因となる代表的な不整脈は。",
+  "back": "心室細動や無脈性心室頻拍が多く、発症早期に起こりやすい。除細動器を早めに装着して備える。"
+ },
+ {
+  "id": 441,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "ACSが疑われる胸痛で、最初に行う検査は何か。",
+  "back": "12誘導心電図を速やかに記録する（目安は接触から10分以内）。ST上昇があれば再灌流療法の準備を急ぐ。"
+ },
+ {
+  "id": 442,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "急性大動脈解離を疑う胸痛の特徴は。",
+  "back": "突然発症の激しい胸背部痛で、痛みが移動する、血圧の左右差があるなど。出血を悪化させうる抗血栓薬は安易に使わない。"
+ },
+ {
+  "id": 443,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "緊張性気胸の緊急処置は何か。",
+  "back": "胸腔穿刺による脱気、または胸腔ドレナージで胸腔内圧を下げる。閉塞性ショックなので昇圧薬だけでは改善しない。"
+ },
+ {
+  "id": 444,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "肺塞栓による心停止で、原因治療として考慮されるものは。",
+  "back": "血栓溶解療法や外科的、カテーテル的治療。胸骨圧迫を続けながら、早めに専門施設へ連絡する。"
+ },
+ {
+  "id": 445,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脳卒中を疑うときに確認する顔、腕、言葉の症状とは。",
+  "back": "顔のゆがみ、腕の脱力、言語障害を確認し、発症時刻（最終健常確認時刻）を必ず聴取して記録する。"
+ },
+ {
+  "id": 446,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脳卒中の初期対応で、最も重要な情報は何か。",
+  "back": "最終健常確認時刻。治療の可否が時間で決まるため、発症時刻が不明なら最後に正常だった時刻を用いる。"
+ },
+ {
+  "id": 447,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "虚血性脳卒中の静注血栓溶解療法（t-PA）の時間枠は。",
+  "back": "発症から4.5時間以内が原則。時間が経つほど出血の危険が増え効果が減るため、迅速な搬送が必要。"
+ },
+ {
+  "id": 448,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脳梗塞に対する血栓回収療法は、主にどんな患者が対象か。",
+  "back": "主幹動脈閉塞を認める患者。適応は画像などで判断され、専門施設でのみ可能なため早めに搬送先へ連絡する。"
+ },
+ {
+  "id": 449,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "脳卒中の疑いで血圧を急いで下げすぎない理由は。",
+  "back": "過度な降圧は脳血流を減らして虚血を悪化させうるため。血圧管理は治療方針に合わせて専門医が判断する。"
+ },
+ {
+  "id": 450,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "意識障害を伴う脳卒中の疑いで、最優先する管理は何か。",
+  "back": "気道、呼吸、循環の確保。舌根沈下や嘔吐による誤嚥を防ぎ、必要なら気道確保と酸素投与、血糖確認を行う。"
+ },
+ {
+  "id": 451,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "循環血液量減少性ショックの初期対応は何か。",
+  "back": "出血源の制御と、細胞外液の急速投与や輸血による循環血液量の補充を行い、心停止に備えて蘇生の準備をする。"
+ },
+ {
+  "id": 452,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "アナフィラキシーショックの第一選択薬と投与経路は。",
+  "back": "アドレナリンの筋肉内注射（大腿外側）。抗ヒスタミン薬やステロイドより先に投与し、遅れると予後が悪化する。"
+ },
+ {
+  "id": 453,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "心原性ショックと循環血液量減少性ショックの見分け方は。",
+  "back": "心原性は頸静脈怒張や肺うっ血があり輸液で悪化しうる。循環血液量減少では頸静脈が虚脱し輸液で改善しやすい。"
+ },
+ {
+  "id": 454,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "敗血症性ショックの初期対応は何か。",
+  "back": "早期の輸液と速やかな抗菌薬投与、感染源の検索を行う。輸液で血圧が保てなければ血管収縮薬を使う。"
+ },
+ {
+  "id": 455,
+  "domain": "peri_arrest_conditions_tachycardia_bradycardia_acs_stroke",
+  "front": "心停止を予防するため、急変の兆候に気づいたらどうするか。",
+  "back": "呼吸数や意識レベルなどの早期警告徴候を評価し、早期に応援と院内急変対応（RRS）を要請する。"
+ },
+ {
+  "id": 456,
+  "domain": "post_rosc_care",
+  "front": "心拍再開（ROSC）を疑う所見には何がありますか。",
+  "back": "脈拍の触知、動脈圧波形の出現、呼気CO2の急上昇、自発的な動きや呼吸などです。単独でなく複数で総合して判断します。"
+ },
+ {
+  "id": 457,
+  "domain": "post_rosc_care",
+  "front": "波形モニタリング中、呼気CO2の急上昇は何を示唆しますか。",
+  "back": "心拍再開（ROSC）を示唆します。心拍出量が回復して肺へのCO2運搬が増えるためです。最終判断は脈拍確認と併せて行います。"
+ },
+ {
+  "id": 458,
+  "domain": "post_rosc_care",
+  "front": "ROSCの確認で脈拍確認に何秒以内をかけるのが原則ですか。",
+  "back": "10秒以内です。確実に触れなければ胸骨圧迫を直ちに再開します。長い確認は圧迫中断を延ばし予後を悪化させます。"
+ },
+ {
+  "id": 459,
+  "domain": "post_rosc_care",
+  "front": "QRS波が見えるのに脈が触れない状態は何ですか。",
+  "back": "PEA（無脈性電気活動）です。波形だけで心拍再開と判断せず、必ず脈拍の有無を確認し、触れなければ圧迫を続けます。"
+ },
+ {
+  "id": 460,
+  "domain": "post_rosc_care",
+  "front": "ROSCを確認した直後に最初に行うべきことは何ですか。",
+  "back": "ABCの再評価です。気道、呼吸、循環を確認し、モニターを装着して酸素投与と換気の適正化、バイタルサインの確認を進めます。"
+ },
+ {
+  "id": 461,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の循環管理で避けるべき状態は何ですか。",
+  "back": "低血圧です。臓器と脳への灌流が低下し予後を悪化させます。輸液や昇圧薬で血圧を維持し、過度な高血圧も避けます。"
+ },
+ {
+  "id": 462,
+  "domain": "post_rosc_care",
+  "front": "ROSC後に低血圧が続くとき、輸液で改善しなければ何を考えますか。",
+  "back": "ノルアドレナリンなどの昇圧薬を考えます。同時に原因として心筋梗塞、出血、緊張性気胸、心タンポナーデなどを検索します。"
+ },
+ {
+  "id": 463,
+  "domain": "post_rosc_care",
+  "front": "ROSC後はできるだけ早く何の検査を行いますか。",
+  "back": "12誘導心電図です。ST上昇などの急性冠症候群の所見を早期に拾い、冠動脈造影の適応を判断するために必要です。"
+ },
+ {
+  "id": 464,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の12誘導心電図でST上昇があれば次にどうしますか。",
+  "back": "緊急冠動脈造影を検討し、循環器医へ連絡します。心停止の原因が急性冠動脈閉塞であることが多く、再灌流が予後に関わります。"
+ },
+ {
+  "id": 465,
+  "domain": "post_rosc_care",
+  "front": "ROSC後、昏睡でも冠動脈造影を検討できますか。",
+  "back": "できます。意識がなくても心原性が疑われる場合は適応を考えます。意識状態だけで造影を見送ることはしません。"
+ },
+ {
+  "id": 466,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の酸素投与の目的は何ですか。",
+  "back": "低酸素を避けつつ高すぎる酸素も避けることです。SpO2は94から98%程度を目標に酸素濃度を調整します。"
+ },
+ {
+  "id": 467,
+  "domain": "post_rosc_care",
+  "front": "ROSC後に100%酸素を漫然と続けない理由は何ですか。",
+  "back": "過剰な高酸素は酸化ストレスによる臓器障害の恐れがあるためです。SpO2が測れたら酸素濃度を下げて調整します。"
+ },
+ {
+  "id": 468,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の換気で避けるべきことは何ですか。",
+  "back": "過換気です。PaCO2が下がると脳血管が収縮し脳血流が減少します。PaCO2は正常範囲を目標に換気回数と量を調整します。"
+ },
+ {
+  "id": 469,
+  "domain": "post_rosc_care",
+  "front": "ROSC後のPaCO2の目標は何ですか。",
+  "back": "正常範囲（35から45mmHg程度）です。低すぎても高すぎても脳循環に悪影響があるため、血液ガスで確認して調整します。"
+ },
+ {
+  "id": 470,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の人工呼吸中、気道確保の位置確認は何で行いますか。",
+  "back": "波形表示の呼気CO2モニターと聴診、胸の上がりの観察を併用します。搬送中の事故抜去や位置異常を早く見つけるためです。"
+ },
+ {
+  "id": 471,
+  "domain": "post_rosc_care",
+  "front": "ROSC後も昏睡が続く成人に行う治療は何ですか。",
+  "back": "体温管理療法（TTM）です。32から36℃の一定温度を保ち、少なくとも24時間は維持するのが基本です。"
+ },
+ {
+  "id": 472,
+  "domain": "post_rosc_care",
+  "front": "体温管理療法で目標体温を決めた後に重要なことは何ですか。",
+  "back": "目標温度を一定に保つことです。急な変動や復温時の急速な上昇を避け、ゆっくり戻します。"
+ },
+ {
+  "id": 473,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の発熱を予防する理由は何ですか。",
+  "back": "発熱は脳の代謝を高め神経学的予後を悪化させるためです。体温管理療法の終了後も発熱を避ける管理を続けます。"
+ },
+ {
+  "id": 474,
+  "domain": "post_rosc_care",
+  "front": "体温管理療法の導入で気をつける合併症にはどんなものがありますか。",
+  "back": "シバリング、不整脈、感染、電解質異常、凝固異常などです。継続的な監視と鎮静、必要に応じ筋弛緩で対応します。"
+ },
+ {
+  "id": 475,
+  "domain": "post_rosc_care",
+  "front": "体温管理療法中に冷却を始める際、初期にやってはいけないことは何ですか。",
+  "back": "循環と呼吸の安定化を後回しにすることです。蘇生と原因治療を優先し、並行して冷却を開始します。"
+ },
+ {
+  "id": 476,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の意識レベルは何で評価しますか。",
+  "back": "JCSやGCSなどで経時的に評価し、瞳孔所見や運動反応も確認します。鎮静薬の影響を考慮して判断します。"
+ },
+ {
+  "id": 477,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の予後判定を急いではいけない理由は何ですか。",
+  "back": "早期は鎮静薬や低体温の影響で所見が修飾され、誤って悪い予後と判断する恐れがあるためです。時間をおいて総合評価します。"
+ },
+ {
+  "id": 478,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の予後判定は、いつ頃から行うのが基本ですか。",
+  "back": "ROSCから少なくとも72時間以降が目安です。体温管理療法を行った場合は復温後に、複数の所見で総合的に判断します。"
+ },
+ {
+  "id": 479,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の予後判定は一つの所見で決めてよいですか。",
+  "back": "いけません。臨床所見、脳波、画像、血液マーカーなどを組み合わせ、鎮静薬など交絡因子を除いて多面的に判断します。"
+ },
+ {
+  "id": 480,
+  "domain": "post_rosc_care",
+  "front": "ROSC後にけいれんが起きたときはどうしますか。",
+  "back": "抗けいれん薬で治療し、可能なら脳波で確認します。けいれんは脳代謝を高め脳障害を悪化させるため放置しません。"
+ },
+ {
+  "id": 481,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の血糖管理で避けたい状態は何ですか。",
+  "back": "低血糖と著しい高血糖です。血糖を測定し、必要に応じて調整します。低血糖は意識評価を妨げ脳障害を悪化させます。"
+ },
+ {
+  "id": 482,
+  "domain": "post_rosc_care",
+  "front": "ROSC後に原因検索のため行う基本的な検査は何ですか。",
+  "back": "12誘導心電図、動脈血液ガス、電解質、血糖、胸部X線、必要に応じて心エコーやCTです。原因治療の方針決定に使います。"
+ },
+ {
+  "id": 483,
+  "domain": "post_rosc_care",
+  "front": "心停止の可逆的原因を覚える語呂の主な項目を挙げてください。",
+  "back": "循環血液量減少、低酸素、アシドーシス、カリウム異常、低体温、緊張性気胸、タンポナーデ、中毒、血栓症などです。ROSC後も検索します。"
+ },
+ {
+  "id": 484,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の搬送先に求められる施設の条件は何ですか。",
+  "back": "心臓カテーテル検査、体温管理、集中治療が24時間可能な施設です。原因治療と集中治療を途切れなく行うため選びます。"
+ },
+ {
+  "id": 485,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の搬送先を決める際、病院前でできる情報提供は何ですか。",
+  "back": "心停止の経過、初期波形、除細動回数、薬剤、ROSC時刻、12誘導心電図の所見を連絡し、受け入れ準備を整えてもらいます。"
+ },
+ {
+  "id": 486,
+  "domain": "post_rosc_care",
+  "front": "ROSC後も除細動パッドを貼ったままにする理由は何ですか。",
+  "back": "再び心停止やVF、pVTになる可能性が高いためです。再度の電気ショックに直ちに対応できるようにしておきます。"
+ },
+ {
+  "id": 487,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の患者で継続して行うモニタリングは何ですか。",
+  "back": "心電図、血圧、SpO2、呼気CO2、体温を持続して観察します。変化の早期発見が再停止への対応を早めます。"
+ },
+ {
+  "id": 488,
+  "domain": "post_rosc_care",
+  "front": "ROSC後に再び心停止になったときはどうしますか。",
+  "back": "直ちに脈と呼吸を確認し、なければ胸骨圧迫を再開して最初の蘇生手順に戻ります。波形に応じて電気ショックを判断します。"
+ },
+ {
+  "id": 489,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の経過観察で、再停止の前兆となる変化は何ですか。",
+  "back": "血圧の急な低下、不整脈の出現、SpO2や呼気CO2の急変、意識の低下です。気づいたら原因を探り迅速に対応します。"
+ },
+ {
+  "id": 490,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の処置中、挿管チューブや静脈路のどこに注意しますか。",
+  "back": "移動や体位変換での逸脱や抜去です。固定を確認し、搬送や移動のたびに位置と開通を再確認します。"
+ },
+ {
+  "id": 491,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の家族への説明で大切なことは何ですか。",
+  "back": "分かりやすい言葉で現在の状態と今後の見通しを誠実に伝えることです。不確実性があることも隠さず、不安に配慮します。"
+ },
+ {
+  "id": 492,
+  "domain": "post_rosc_care",
+  "front": "ROSC後の情報の引き継ぎで伝える内容は何ですか。",
+  "back": "心停止の時刻と経過、初期波形、実施した処置と薬剤、ROSC時刻、現在の状態です。時系列で簡潔に正確に伝えます。"
+ },
+ {
+  "id": 493,
+  "domain": "post_rosc_care",
+  "front": "蘇生の記録で特に正確に残すべき項目は何ですか。",
+  "back": "心停止の認識時刻、除細動の時刻と回数、薬剤の投与時刻、ROSC時刻です。後の振り返りと予後評価の基礎になります。"
+ },
+ {
+  "id": 494,
+  "domain": "post_rosc_care",
+  "front": "ROSC後に治療方針を考える際、倫理面で重視することは何ですか。",
+  "back": "患者の意思や事前の意向を尊重し、家族と話し合うことです。予後の見通しを踏まえ、治療の継続や制限を慎重に検討します。"
+ },
+ {
+  "id": 495,
+  "domain": "post_rosc_care",
+  "front": "蘇生後に行うチームの振り返りの目的は何ですか。",
+  "back": "良かった点と改善点を共有し、次の蘇生の質を高めることです。個人を責めず、事実に基づいて話し合います。"
+ },
+ {
+  "id": 496,
+  "domain": "basic_life_support_and_aed",
+  "front": "胸骨圧迫の位置と深さ・速さの目安は何か。",
+  "back": "胸骨の下半分を、成人では約5cm（6cmを超えない）の深さ、1分間に100〜120回の速さで圧迫する。毎回、胸壁が完全に元に戻るまで力を抜く。"
+ },
+ {
+  "id": 497,
+  "domain": "ecg_rhythm_recognition_in_cardiac_arrest",
+  "front": "心静止と診断する前に確認すべきことは何か。",
+  "back": "電極やリードの外れ、ゲイン（感度）の設定、別の誘導での波形を確認する。細かい心室細動を見逃さないために、波形の確認は複数の誘導で行う。"
+ },
+ {
+  "id": 498,
+  "domain": "resuscitation_drugs_and_access_routes",
+  "front": "静脈路が確保できないときの代替投与経路は何か。",
+  "back": "骨髄路（骨髄内投与）を第一に考える。気管内投与は薬物の吸収が不確実で推奨されない。蘇生薬剤は静脈路または骨髄路から投与し、投与後は生理食塩液でフラッシュする。"
+ },
+ {
+  "id": 499,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "「4H」とは何を指すか。",
+  "back": "循環血液量減少（Hypovolemia）、低酸素（Hypoxia）、カリウム異常・代謝異常（高・低カリウム血症、アシドーシスなど）、低体温（Hypothermia）の4つを指す。"
+ },
+ {
+  "id": 500,
+  "domain": "reversible_causes_of_cardiac_arrest",
+  "front": "「4T」とは何を指すか。",
+  "back": "緊張性気胸（Tension pneumothorax）、心タンポナーデ（Tamponade）、毒物（Toxins）、血栓症（Thrombosis：肺塞栓症・冠動脈血栓症）の4つを指す。"
+ }
+]
